@@ -1,7 +1,29 @@
 {
-  "atualizado": "15/04/2026 18:14",
-  "total": 134,
+  "atualizado": "15/04/2026 23:47",
+  "total": 139,
   "ofertas": [
+    {
+      "title": "Recarregável Rc Carro Controle Remoto 1:18 Com Spray E Luz Branco Juguetes Camión Control Remoto",
+      "price": 132.0,
+      "original_price": 600.0,
+      "discount": 78,
+      "permalink": "https://meli.la/1nuwGdu",
+      "categoria": "Brinquedos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_875090-MLB93744327156_102025-AB.webp",
+      "emoji": "🧸",
+      "destaque": true
+    },
+    {
+      "title": "Whey Isolate Protein Fuse Refil 1,8kg Dark Lab - Mp Importad Sabor Cookeis",
+      "price": 159.0,
+      "original_price": 699.0,
+      "discount": 77,
+      "permalink": "https://meli.la/32783kt",
+      "categoria": "Esportes",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_810585-MLA99409391058_112025-AB.webp",
+      "emoji": "⚽",
+      "destaque": true
+    },
     {
       "title": "Câmera Segurança Wifi Ip Lente Dupla 2x 3mp Externa 360° A Prova Dágua Cor Cinza",
       "price": 117.0,
@@ -14,14 +36,14 @@
       "destaque": true
     },
     {
-      "title": "Whey Protein Concentrado 100% 900g Refil Dark Lab Sabor Morango",
-      "price": 119.0,
-      "original_price": 499.0,
+      "title": "Caminhão Dinossauro Comendo Carros Brinquedo Com 6 Carros Dinosauros Devoram Carros Azul",
+      "price": 144.0,
+      "original_price": 597.0,
       "discount": 76,
-      "permalink": "https://meli.la/22cDFqP",
-      "categoria": "Esportes",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_760779-MLA99484493666_112025-AB.webp",
-      "emoji": "⚽",
+      "permalink": "https://meli.la/1m3ompS",
+      "categoria": "Brinquedos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_721772-MLB100517208028_122025-AB.webp",
+      "emoji": "🧸",
       "destaque": true
     },
     {
@@ -32,17 +54,6 @@
       "permalink": "https://meli.la/1f6eHyT",
       "categoria": "Brinquedos",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_855339-MLA102453539287_122025-AB.webp",
-      "emoji": "🧸",
-      "destaque": true
-    },
-    {
-      "title": "Caminhão Dinossauro Comendo Carros Brinquedo Com 6 Carros Dinosauros Devoram Carros Azul",
-      "price": 144.0,
-      "original_price": 597.0,
-      "discount": 76,
-      "permalink": "https://meli.la/1m3ompS",
-      "categoria": "Brinquedos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_721772-MLB100517208028_122025-AB.webp",
       "emoji": "🧸",
       "destaque": true
     },
@@ -80,6 +91,39 @@
       "destaque": true
     },
     {
+      "title": "Espelho 100x50 Orgânico Corpo Inteiro Grande Moldur Caramelo Preto",
+      "price": 119.0,
+      "original_price": 399.0,
+      "discount": 70,
+      "permalink": "https://meli.la/1LgFdEC",
+      "categoria": "Eletrodomésticos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_936790-MLA96100703939_102025-AB.webp",
+      "emoji": "🏠",
+      "destaque": true
+    },
+    {
+      "title": "Berço Portatil Moises Balanço Mosquiteiro Infantil Pipdip Cinza",
+      "price": 478.0,
+      "original_price": 1499.0,
+      "discount": 68,
+      "permalink": "https://meli.la/1FTnJVk",
+      "categoria": "Eletrodomésticos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_705237-MLB107817100752_032026-AB.webp",
+      "emoji": "🏠",
+      "destaque": true
+    },
+    {
+      "title": "Notebook Hp 256r G9 Intel Core I3-1315u 15.6 Hd Intel Uhd Graphics 256gb Ssd 8gb Ram Windows 11 Home 64 Sl - Bq9k8at#ak4 Cinza-escuro",
+      "price": 2999.0,
+      "original_price": 9000.0,
+      "discount": 67,
+      "permalink": "https://meli.la/1RtLfSk",
+      "categoria": "Informática",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_855016-MLA88260643469_072025-AB.webp",
+      "emoji": "💻",
+      "destaque": true
+    },
+    {
       "title": "Creatina Monohidratada Pura 500g Dark Lab Unidade Sem Sabor",
       "price": 44.0,
       "original_price": 129.0,
@@ -87,6 +131,17 @@
       "permalink": "https://meli.la/2nmHc3u",
       "categoria": "Esportes",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_942122-MLA99923169249_112025-AB.webp",
+      "emoji": "⚽",
+      "destaque": true
+    },
+    {
+      "title": "Ômega 3 Epa Dha 240 Cápsulas Dark Lab Sem Sabor",
+      "price": 129.0,
+      "original_price": 379.0,
+      "discount": 66,
+      "permalink": "https://meli.la/22SkRze",
+      "categoria": "Esportes",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_876329-MLA99502619184_112025-AB.webp",
       "emoji": "⚽",
       "destaque": true
     },
@@ -113,6 +168,50 @@
       "destaque": true
     },
     {
+      "title": "Whey Protein Concentrado 1kg Dark Lab Sabor Doce De Leite",
+      "price": 129.0,
+      "original_price": 349.0,
+      "discount": 63,
+      "permalink": "https://meli.la/12FNvQ6",
+      "categoria": "Esportes",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_926889-MLA99570923936_122025-AB.webp",
+      "emoji": "⚽",
+      "destaque": true
+    },
+    {
+      "title": "Patinete Elétrico Premium 500w7.8ah Amortecimento Hidráulico Preto",
+      "price": 1551.0,
+      "original_price": 3999.0,
+      "discount": 61,
+      "permalink": "https://meli.la/2E67fMV",
+      "categoria": "Brinquedos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_619171-MLB110004893103_042026-AB.webp",
+      "emoji": "🧸",
+      "destaque": true
+    },
+    {
+      "title": "Kit 10 Cuecas Boxer Lupo Algodão Confortável Box Original",
+      "price": 157.0,
+      "original_price": 389.0,
+      "discount": 60,
+      "permalink": "https://meli.la/2hjaQKT",
+      "categoria": "Ofertas do Dia",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_753249-MLB84466321970_052025-O-kit-10-cuecas-boxer-lupo-algodo-confortavel-box-original.webp",
+      "emoji": "🔥",
+      "destaque": true
+    },
+    {
+      "title": "Kit 3 Calça Jeans Masculina Slim Fit Lycra Direto Da Fabrica",
+      "price": 121.0,
+      "original_price": 299.0,
+      "discount": 60,
+      "permalink": "https://meli.la/2unMwYZ",
+      "categoria": "Ofertas do Dia",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_961048-MLB75865109254_042024-O-kit-3-calca-jeans-masculina-slim-fit-lycra-direto-da-fabrica.webp",
+      "emoji": "🔥",
+      "destaque": true
+    },
+    {
       "title": "Carregador Portátil Power Bank Turbo 20000mah Universal Para iPhone Samsung Motorlola Xiaomi 20w Com Display Digital Dtimp Preto",
       "price": 119.0,
       "original_price": 299.0,
@@ -124,25 +223,14 @@
       "destaque": true
     },
     {
-      "title": "Kit 6 Pares Meias Puma Cano Médio Alto Atoalhada Original",
-      "price": 59.0,
-      "original_price": 149.0,
-      "discount": 60,
-      "permalink": "https://meli.la/2JzfUnJ",
-      "categoria": "Moda",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_617361-MLB54128842596_032023-O-kit-6-pares-meias-puma-cano-medio-alto-atoalhada-original.webp",
-      "emoji": "👗",
-      "destaque": true
-    },
-    {
-      "title": "Cartão De Memória Para Câmeras Wi-fi Drones 128gb Micro Sd",
-      "price": 25.0,
-      "original_price": 59.0,
+      "title": "Parafusadeira Furadeira De Impacto The Black Tools Profissional Tb-21px 2 Baterias Com Maleta 60hz Amarelo 127/220v",
+      "price": 167.0,
+      "original_price": 395.0,
       "discount": 58,
-      "permalink": "https://meli.la/1yjy14M",
-      "categoria": "Celulares",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_803585-MLB108811686011_032026-AB.webp",
-      "emoji": "📱",
+      "permalink": "https://meli.la/2u5E4dX",
+      "categoria": "Ofertas do Dia",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_865332-MLA96868279679_102025-AB.webp",
+      "emoji": "🔥",
       "destaque": true
     },
     {
@@ -157,28 +245,6 @@
       "destaque": true
     },
     {
-      "title": "Kit 10 Peças De Roupa Conjunto Infantil Menino Dia A Dia",
-      "price": 69.0,
-      "original_price": 159.0,
-      "discount": 57,
-      "permalink": "https://meli.la/2busP1Y",
-      "categoria": "Moda",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_732414-MLB86474429728_062025-O-kit-10-pecas-de-roupa-conjunto-infantil-menino-dia-a-dia.webp",
-      "emoji": "👗",
-      "destaque": true
-    },
-    {
-      "title": "Conjunto Manalinda Fitness Top E Legging Azul Escuro",
-      "price": 77.0,
-      "original_price": 181.0,
-      "discount": 57,
-      "permalink": "https://meli.la/2RYNQoe",
-      "categoria": "Moda",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_758241-MLB98885808273_112025-O-conjunto-manalinda-fitness-top-e-legging-azul-escuro.webp",
-      "emoji": "👗",
-      "destaque": true
-    },
-    {
       "title": "Caminhão De Engolir Dinossauro Transformável Brinquedo 7 Em1 Azul",
       "price": 128.0,
       "original_price": 300.0,
@@ -190,28 +256,6 @@
       "destaque": true
     },
     {
-      "title": "Submundo Hacker",
-      "price": 30.0,
-      "original_price": 69.0,
-      "discount": 57,
-      "permalink": "https://meli.la/2eU5P19",
-      "categoria": "Livros",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_948535-MLB49266686812_032022-AB.webp",
-      "emoji": "📚",
-      "destaque": true
-    },
-    {
-      "title": "Parafusadeira Furadeira De Impacto The Black Tools Profissional Tb-21px 2 Baterias Com Maleta 60hz Amarelo 127/220v",
-      "price": 175.0,
-      "original_price": 395.0,
-      "discount": 56,
-      "permalink": "https://meli.la/2u5E4dX",
-      "categoria": "Ofertas do Dia",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_865332-MLA96868279679_102025-AB.webp",
-      "emoji": "🔥",
-      "destaque": true
-    },
-    {
       "title": "Kit 4 Camiseta Dry-fit Sandrini Masculina Academia Caminhada",
       "price": 59.0,
       "original_price": 135.0,
@@ -219,17 +263,6 @@
       "permalink": "https://meli.la/2kDtLqV",
       "categoria": "Ofertas do Dia",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_626928-MLB82004918446_022025-O-kit-4-camiseta-dry-fit-sandrini-masculina-academia-caminhada.webp",
-      "emoji": "🔥",
-      "destaque": true
-    },
-    {
-      "title": "Creatina Monohidratada Em Pote 300g 100% Pura Dark Lab",
-      "price": 34.0,
-      "original_price": 78.0,
-      "discount": 56,
-      "permalink": "https://meli.la/1phYMyD",
-      "categoria": "Ofertas do Dia",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_716663-MLA99599672360_122025-AB.webp",
       "emoji": "🔥",
       "destaque": true
     },
@@ -256,69 +289,47 @@
       "destaque": true
     },
     {
-      "title": "Carregador Fonte Apple iPad iPhone Turbo Usb-c 20w Original Branco",
-      "price": 111.0,
-      "original_price": 248.0,
-      "discount": 55,
-      "permalink": "https://meli.la/2BDDANf",
-      "categoria": "Celulares",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_663404-MLB89709900454_082025-AB.webp",
-      "emoji": "📱",
-      "destaque": true
-    },
-    {
-      "title": "Notebook Vaio Fe16 Amd Ryzen 7 5825u Linux 8gb Ram 512gb Ssd Wi-fi 6 Tela 16  Ips Wuxga Antirreflexo - Cinza Grafite Vjfe69f11xb0321h - Perm",
-      "price": 3599.0,
-      "original_price": 7999.0,
-      "discount": 55,
-      "permalink": "https://meli.la/2ECnLrL",
-      "categoria": "Informática",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_695951-MLA99449832220_112025-AB.webp",
-      "emoji": "💻",
-      "destaque": true
-    },
-    {
-      "title": "Vaso Sanitário Monobloco Caixa Acoplada Completo Privada Cor Branco Tubrax - Vab0003",
-      "price": 500.0,
-      "original_price": 1084.0,
-      "discount": 54,
-      "permalink": "https://meli.la/1bsEsT8",
-      "categoria": "Ofertas do Dia",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_746046-MLA96084254075_102025-AB.webp",
-      "emoji": "🔥",
-      "destaque": true
-    },
-    {
-      "title": "Kit 9 Pares Meias Puma Sapatilha Soquete Invisível Original",
-      "price": 68.0,
-      "original_price": 149.0,
-      "discount": 54,
-      "permalink": "https://meli.la/2WwRQmR",
-      "categoria": "Moda",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_872253-MLB96642336275_102025-O-kit-9-pares-meias-puma-sapatilha-soquete-invisivel-original.webp",
-      "emoji": "👗",
-      "destaque": true
-    },
-    {
-      "title": "Box  Turma Da Mônica Jovem, De Mauricio De Souza. Editorial Milk Shakespeare - Faro Editora, Tapa Mole En Português",
-      "price": 52.0,
-      "original_price": 114.0,
-      "discount": 54,
-      "permalink": "https://meli.la/1s5mjgV",
-      "categoria": "Livros",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_939953-MLU72564023141_102023-AB.webp",
-      "emoji": "📚",
+      "title": "Creatina Monohidratada Em Pote 300g 100% Pura Dark Lab",
+      "price": 34.0,
+      "original_price": 78.0,
+      "discount": 56,
+      "permalink": "https://meli.la/1phYMyD",
+      "categoria": "Esportes",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_716663-MLA99599672360_122025-AB.webp",
+      "emoji": "⚽",
       "destaque": true
     },
     {
       "title": "Caixa Amplificada Connect Power Plus Cm-550 Preto Mondial 127/220v",
-      "price": 439.0,
+      "price": 417.0,
       "original_price": 929.0,
-      "discount": 53,
+      "discount": 55,
       "permalink": "https://meli.la/2QFDLxu",
       "categoria": "Ofertas do Dia",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_849860-MLA99587833526_122025-AB.webp",
       "emoji": "🔥",
+      "destaque": true
+    },
+    {
+      "title": "Chuteira Umbro Masculina Society Domínio Bola Leve E Moderna",
+      "price": 134.0,
+      "original_price": 299.0,
+      "discount": 55,
+      "permalink": "https://meli.la/2mYsfxs",
+      "categoria": "Esportes",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_833104-MLB107175609851_022026-O-chuteira-umbro-masculina-society-dominio-bola-leve-e-moderna.webp",
+      "emoji": "⚽",
+      "destaque": true
+    },
+    {
+      "title": "Andador Tapete De Atividades Musical 2 Em 1 Com Som",
+      "price": 113.0,
+      "original_price": 249.0,
+      "discount": 55,
+      "permalink": "https://meli.la/1uxHy6H",
+      "categoria": "Brinquedos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_941035-MLB101757288207_122025-AB.webp",
+      "emoji": "🧸",
       "destaque": true
     },
     {
@@ -330,17 +341,6 @@
       "categoria": "Celulares",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_985375-MLA99492370882_112025-AB.webp",
       "emoji": "📱",
-      "destaque": true
-    },
-    {
-      "title": "Colchão Solteiro Espuma D33 Pillow Top New Millenium Branco",
-      "price": 301.0,
-      "original_price": 644.0,
-      "discount": 53,
-      "permalink": "https://meli.la/2pH3YHs",
-      "categoria": "Eletrodomésticos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_762302-MLA99451700464_112025-AB.webp",
-      "emoji": "🏠",
       "destaque": true
     },
     {
@@ -377,17 +377,6 @@
       "destaque": true
     },
     {
-      "title": "Tenis Casual Colcci Cf Simple Feminino Sintético",
-      "price": 144.0,
-      "original_price": 299.0,
-      "discount": 52,
-      "permalink": "https://meli.la/2Dbo2LL",
-      "categoria": "Ofertas do Dia",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_922586-MLB89833068684_082025-O-tenis-casual-colcci-cf-simple-feminino-sintetico.webp",
-      "emoji": "🔥",
-      "destaque": true
-    },
-    {
       "title": "Samsung Galaxy Tab A11+ 5g 6gb, 128gb Cinza",
       "price": 1371.0,
       "original_price": 2855.0,
@@ -396,6 +385,28 @@
       "categoria": "Informática",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_909134-MLA107202450672_032026-AB.webp",
       "emoji": "💻",
+      "destaque": true
+    },
+    {
+      "title": "Tenis Casual Colcci Cf Simple Feminino Sintético",
+      "price": 144.0,
+      "original_price": 299.0,
+      "discount": 52,
+      "permalink": "https://meli.la/2Dbo2LL",
+      "categoria": "Moda",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_922586-MLB89833068684_082025-O-tenis-casual-colcci-cf-simple-feminino-sintetico.webp",
+      "emoji": "👗",
+      "destaque": true
+    },
+    {
+      "title": "Moletom Masculino Gola Careca Flanelado Paris Suéter Frio",
+      "price": 43.0,
+      "original_price": 89.0,
+      "discount": 52,
+      "permalink": "https://meli.la/31WgPXU",
+      "categoria": "Moda",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_994579-MLB108190706233_032026-O-moletom-masculino-gola-careca-flanelado-paris-sueter-frio.webp",
+      "emoji": "👗",
       "destaque": true
     },
     {
@@ -410,39 +421,6 @@
       "destaque": true
     },
     {
-      "title": "Bicicleta Infantil Equilibrio Sem Pedal Balance Azul Nathor",
-      "price": 152.0,
-      "original_price": 320.0,
-      "discount": 52,
-      "permalink": "https://meli.la/2eBnmdf",
-      "categoria": "Brinquedos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_830661-MLA99443125218_112025-AB.webp",
-      "emoji": "🧸",
-      "destaque": true
-    },
-    {
-      "title": "Livro Um Sonho De Férias - Christina Lauren, Vol. 1. Editorial Faro Capa Mole, Edição 1 Em Português, 2024",
-      "price": 31.0,
-      "original_price": 64.0,
-      "discount": 52,
-      "permalink": "https://meli.la/2dppTkZ",
-      "categoria": "Livros",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_835418-MLA82157325850_022025-AB.webp",
-      "emoji": "📚",
-      "destaque": true
-    },
-    {
-      "title": "Kit 10 Cuecas Boxer Lupo Algodão Confortável Box Original",
-      "price": 192.0,
-      "original_price": 389.0,
-      "discount": 51,
-      "permalink": "https://meli.la/2hjaQKT",
-      "categoria": "Ofertas do Dia",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_753249-MLB84466321970_052025-O-kit-10-cuecas-boxer-lupo-algodo-confortavel-box-original.webp",
-      "emoji": "🔥",
-      "destaque": true
-    },
-    {
       "title": "Carregador 30w Turbo Para iPhone 8 X Xr 11 12 13 14 Pro Max Fonte Usb C Cor Branca Dtimp Branco",
       "price": 49.0,
       "original_price": 99.0,
@@ -451,28 +429,6 @@
       "categoria": "Celulares",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_811775-MLA109024561273_032026-AB.webp",
       "emoji": "📱",
-      "destaque": true
-    },
-    {
-      "title": "Notebook Vaio Fe16 Amd Ryzen 7-5825u Linux 16gb Ram 512gb Ssd Wi-fi 6 Tela 16  Ips Wuxga Antirreflexo Cinza Grafite Vjfe69f11xb0121h - Permi",
-      "price": 3899.0,
-      "original_price": 7999.0,
-      "discount": 51,
-      "permalink": "https://meli.la/32ySmUU",
-      "categoria": "Informática",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_954850-MLA99514927694_112025-AB.webp",
-      "emoji": "💻",
-      "destaque": true
-    },
-    {
-      "title": "Câmera Inteligente Im7 + 3mp De Resolução Branca Intelbras Branco",
-      "price": 377.0,
-      "original_price": 763.0,
-      "discount": 51,
-      "permalink": "https://meli.la/25Huaa2",
-      "categoria": "Eletrodomésticos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_892568-MLA99939109103_112025-AB.webp",
-      "emoji": "🏠",
       "destaque": true
     },
     {
@@ -487,17 +443,6 @@
       "destaque": true
     },
     {
-      "title": "Vaso Sanitário Monobloco Caixa Acoplada Completo - Privada Cor Branco - Vab0002",
-      "price": 488.0,
-      "original_price": 983.0,
-      "discount": 50,
-      "permalink": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Ofertas do Dia",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_632053-MLA96114658485_102025-AB.webp",
-      "emoji": "🔥",
-      "destaque": true
-    },
-    {
       "title": "Tênis Masculino Casual Aramis Daily Slip Confortável Moderno",
       "price": 169.0,
       "original_price": 339.0,
@@ -509,25 +454,25 @@
       "destaque": true
     },
     {
-      "title": "Kit 4 Cuecas Boxer Lupo Algodão Confortável Box Original",
-      "price": 75.0,
-      "original_price": 149.0,
+      "title": "Cadeira Escritório Ergonômica Genebra B500 Luvinco Cor Preto Com Suporte Lombar Estofado Mesh Malha",
+      "price": 450.0,
+      "original_price": 906.0,
       "discount": 50,
-      "permalink": "https://meli.la/23tvXYe",
+      "permalink": "https://meli.la/1GteeS2",
       "categoria": "Ofertas do Dia",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_812578-MLB82638744739_022025-O-kit-4-cuecas-boxer-lupo-algodo-confortavel-box-original.webp",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_764756-MLA96570589252_112025-AB.webp",
       "emoji": "🔥",
       "destaque": true
     },
     {
-      "title": "Tênis Casual Kappa Zenit Masculino Unissex Conforto",
-      "price": 115.0,
-      "original_price": 229.0,
+      "title": "Kit 10 Radio Walk Talk Comunicador 16 Ch  Baofeng 777s Ht Preto",
+      "price": 580.0,
+      "original_price": 1160.0,
       "discount": 50,
-      "permalink": "https://meli.la/2p3Z362",
-      "categoria": "Ofertas do Dia",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_674218-MLA105122753134_012026-O-tnis-casual-kappa-zenit-masculino-unissex-conforto.webp",
-      "emoji": "🔥",
+      "permalink": "https://meli.la/1DCs1Qv",
+      "categoria": "Celulares",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_698031-MLB89227720277_082025-AB.webp",
+      "emoji": "📱",
       "destaque": true
     },
     {
@@ -542,39 +487,6 @@
       "destaque": true
     },
     {
-      "title": "Cadeira Escritório Ergonômica Genebra B500 Luvinco Cor Preto Com Suporte Lombar Estofado Mesh Malha",
-      "price": 450.0,
-      "original_price": 906.0,
-      "discount": 50,
-      "permalink": "https://meli.la/1GteeS2",
-      "categoria": "Eletrodomésticos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_764756-MLA96570589252_112025-AB.webp",
-      "emoji": "🏠",
-      "destaque": true
-    },
-    {
-      "title": "Vaso Sanitário Monobloco Caixa Acoplada Completo - Privada Cor Branco - Vab0002",
-      "price": 488.0,
-      "original_price": 983.0,
-      "discount": 50,
-      "permalink": "https://meli.la/2GKr8qM",
-      "categoria": "Eletrodomésticos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_632053-MLA96114658485_102025-AB.webp",
-      "emoji": "🏠",
-      "destaque": true
-    },
-    {
-      "title": "Kit 6 Cuecas Lupo Boxer Box Sem Costura Basic Microfibra",
-      "price": 144.0,
-      "original_price": 288.0,
-      "discount": 50,
-      "permalink": "https://meli.la/2pwAddc",
-      "categoria": "Moda",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_724774-MLB100762267821_122025-O-kit-6-cuecas-lupo-boxer-box-sem-costura-basic-microfibra.webp",
-      "emoji": "👗",
-      "destaque": true
-    },
-    {
       "title": "Kit 2x Creatina 300g Max Titanium Monohidratada Em Pó Sem Sabor",
       "price": 89.0,
       "original_price": 179.0,
@@ -583,28 +495,6 @@
       "categoria": "Esportes",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_776821-MLA99365251528_112025-AB.webp",
       "emoji": "⚽",
-      "destaque": true
-    },
-    {
-      "title": "Creatina 100% Pura 300g Integralmedica - Força E Performance Neutro",
-      "price": 39.0,
-      "original_price": 78.0,
-      "discount": 50,
-      "permalink": "https://meli.la/1iCySZT",
-      "categoria": "Esportes",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_604581-MLA110163702191_042026-AB.webp",
-      "emoji": "⚽",
-      "destaque": true
-    },
-    {
-      "title": "Deo Parfum Natura Una Celebrar 75ml",
-      "price": 159.0,
-      "original_price": 319.0,
-      "discount": 50,
-      "permalink": "https://meli.la/1iHBBBh",
-      "categoria": "Beleza",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_637585-MLA102888988575_122025-AB.webp",
-      "emoji": "💄",
       "destaque": true
     },
     {
@@ -646,9 +536,9 @@
       "original_price": 2570.0,
       "discount": 49,
       "permalink": "https://meli.la/2P2fFyd",
-      "categoria": "Informática",
+      "categoria": "Ofertas do Dia",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_605904-MLA104267538043_012026-AB.webp",
-      "emoji": "💻",
+      "emoji": "🔥",
       "destaque": true
     },
     {
@@ -663,36 +553,14 @@
       "destaque": true
     },
     {
-      "title": "Fone Ouvido Soundcore P30i Bluetooth 5.4 Anc Adaptativo 45h Cor Branco",
-      "price": 199.0,
-      "original_price": 389.0,
+      "title": "Smart Tv 4k 50  LG Nanocell 50nanoa Processador 7 Ai Ger8 4k Super Upscaling Google Cast Alexa Integrado Controle Ai Smart Magic Webos 25",
+      "price": 2287.0,
+      "original_price": 4499.0,
       "discount": 49,
-      "permalink": "https://meli.la/182oVXo",
+      "permalink": "https://meli.la/1ETWte6",
       "categoria": "Eletrônicos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_944817-MLA99499902540_112025-AB.webp",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_632660-MLA106910958160_022026-AB.webp",
       "emoji": "🔌",
-      "destaque": true
-    },
-    {
-      "title": "Fone Ouvido Soundcore P30i Bluetooth 5.4 Anc Adaptativo 45h Cor Verde-escuro",
-      "price": 199.0,
-      "original_price": 389.0,
-      "discount": 49,
-      "permalink": "https://meli.la/1jJb61p",
-      "categoria": "Eletrônicos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_704425-MLA99991505833_112025-AB.webp",
-      "emoji": "🔌",
-      "destaque": true
-    },
-    {
-      "title": "Taiff Prancha Cerâmica Profissional Classic 180° Preto 127/220v",
-      "price": 99.0,
-      "original_price": 196.0,
-      "discount": 49,
-      "permalink": "https://meli.la/1mmUNTP",
-      "categoria": "Beleza",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_773132-MLA96072907583_102025-AB.webp",
-      "emoji": "💄",
       "destaque": true
     },
     {
@@ -707,14 +575,47 @@
       "destaque": true
     },
     {
-      "title": "Kit Wella Professionals Oil Reflections Shampoo E Máscara",
-      "price": 354.0,
-      "original_price": 699.0,
+      "title": "Taiff Prancha Cerâmica Profissional Classic 180° Preto 127/220v",
+      "price": 99.0,
+      "original_price": 196.0,
       "discount": 49,
-      "permalink": "https://meli.la/26UN867",
+      "permalink": "https://meli.la/1mmUNTP",
       "categoria": "Beleza",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_629201-MLA101087987561_122025-AB.webp",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_773132-MLA96072907583_102025-AB.webp",
       "emoji": "💄",
+      "destaque": true
+    },
+    {
+      "title": "Sérum Ultra Concentrado Antiacne, Cravos E Marcas , Efeito Peeling Suave, Não Comedogênico Peles Oleosas E Acneicas Effaclar La Roche-posay ",
+      "price": 139.0,
+      "original_price": 271.0,
+      "discount": 49,
+      "permalink": "https://meli.la/2e2xhFk",
+      "categoria": "Beleza",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_803862-MLA81364789530_122024-AB.webp",
+      "emoji": "💄",
+      "destaque": true
+    },
+    {
+      "title": "Carrinho Elétrico Infantil Bang Toys Shadow Racer Preto Bluetooth Led 127/220v",
+      "price": 681.0,
+      "original_price": 1332.0,
+      "discount": 49,
+      "permalink": "https://meli.la/24mis3u",
+      "categoria": "Brinquedos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_812664-MLA99990684125_112025-AB.webp",
+      "emoji": "🧸",
+      "destaque": true
+    },
+    {
+      "title": "Câmera Segurança Ip Externa Wifi A28 App Icsee À Prova Dágua Ip66 Dome Lente Dupla Lentes 2 Em 1 Vigilancia Visão Noturna Infravermelho  4k ",
+      "price": 105.0,
+      "original_price": 200.0,
+      "discount": 48,
+      "permalink": "https://meli.la/2StLVbY",
+      "categoria": "Ofertas do Dia",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_927792-MLB91185357960_092025-AB.webp",
+      "emoji": "🔥",
       "destaque": true
     },
     {
@@ -729,13 +630,13 @@
       "destaque": true
     },
     {
-      "title": "Câmera Segurança Ip Externa Wifi A28 App Icsee À Prova Dágua Ip66 Dome Lente Dupla Lentes 2 Em 1 Vigilancia Visão Noturna Infravermelho  4k ",
-      "price": 105.0,
-      "original_price": 200.0,
+      "title": "Câmera Inteligente Im7 + 3mp De Resolução Branca Intelbras Branco",
+      "price": 398.0,
+      "original_price": 763.0,
       "discount": 48,
-      "permalink": "https://meli.la/2StLVbY",
+      "permalink": "https://meli.la/25Huaa2",
       "categoria": "Eletrodomésticos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_927792-MLB91185357960_092025-AB.webp",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_892568-MLA99939109103_112025-AB.webp",
       "emoji": "🏠",
       "destaque": true
     },
@@ -751,14 +652,14 @@
       "destaque": true
     },
     {
-      "title": "Livro Os Últimos Jovens Da Terra Guia De Sobrevivência De Max Brallier Capa Mole Em Português 2021 Editora Milk Shakespeare",
-      "price": 28.0,
-      "original_price": 54.0,
-      "discount": 48,
-      "permalink": "https://meli.la/2AS8wCx",
-      "categoria": "Livros",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_959593-MLU50596070938_072022-AB.webp",
-      "emoji": "📚",
+      "title": "Power Bank Carregador Magsafe 5000mah Magnético Para iPhone Branco",
+      "price": 58.0,
+      "original_price": 109.0,
+      "discount": 47,
+      "permalink": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Celulares",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_610507-MLB105320206762_012026-AB.webp",
+      "emoji": "📱",
       "destaque": true
     },
     {
@@ -773,14 +674,36 @@
       "destaque": true
     },
     {
-      "title": "Galaxy Buds Core Preto",
-      "price": 264.0,
-      "original_price": 499.0,
+      "title": "Smartphone Motorola Edge 60 Neo 5g - 512gb 24gb (12gb Ram + 12gb Ram Boost) 50mp Sony Camera Moto Ai E Tela 1.5k Super Hd - Late Latte",
+      "price": 2298.0,
+      "original_price": 4299.0,
       "discount": 47,
-      "permalink": "https://meli.la/1i1QWcV",
-      "categoria": "Eletrônicos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_650858-MLA97317826023_112025-AB.webp",
-      "emoji": "🔌",
+      "permalink": "https://meli.la/2Ny7Svu",
+      "categoria": "Celulares",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_703571-MLA93504208204_102025-AB.webp",
+      "emoji": "📱",
+      "destaque": true
+    },
+    {
+      "title": "Impressora Multifuncional Hp Smart Tank 584 - Preta Preto 127/220v",
+      "price": 637.0,
+      "original_price": 1199.0,
+      "discount": 47,
+      "permalink": "https://meli.la/1Eexpec",
+      "categoria": "Informática",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_961034-MLA99958290111_112025-AB.webp",
+      "emoji": "💻",
+      "destaque": true
+    },
+    {
+      "title": "Esteira Elétrica Ergométrica Bivolt Ginastica Wct Fitness Cor Preto",
+      "price": 1699.0,
+      "original_price": 3199.0,
+      "discount": 47,
+      "permalink": "https://meli.la/2VNPLob",
+      "categoria": "Esportes",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_679005-MLA100674509424_122025-AB.webp",
+      "emoji": "⚽",
       "destaque": true
     },
     {
@@ -817,6 +740,28 @@
       "destaque": true
     },
     {
+      "title": "Bicicleta Ergométrica Para Spinning Mecanica 8kg Odin Fit Cor Preto/vermelho",
+      "price": 1251.0,
+      "original_price": 2299.0,
+      "discount": 46,
+      "permalink": "https://meli.la/1G3LTYY",
+      "categoria": "Ofertas do Dia",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_698827-MLA99367807330_112025-AB.webp",
+      "emoji": "🔥",
+      "destaque": true
+    },
+    {
+      "title": "Celular Samsung Galaxy A56 5g 256gb 8gb Ram Cinza",
+      "price": 1998.0,
+      "original_price": 3699.0,
+      "discount": 46,
+      "permalink": "https://meli.la/17QRmnn",
+      "categoria": "Ofertas do Dia",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_927393-MLA100014745899_122025-AB.webp",
+      "emoji": "🔥",
+      "destaque": true
+    },
+    {
       "title": "Samsung Galaxy A56 5g Dual Sim 256 Gb Awesome Graphite 8 Gb Ram Grafite",
       "price": 1998.0,
       "original_price": 3699.0,
@@ -828,13 +773,24 @@
       "destaque": true
     },
     {
-      "title": "Celular Samsung Galaxy A56 5g 256gb 8gb Ram Cinza",
-      "price": 1998.0,
-      "original_price": 3699.0,
+      "title": "Smartphone Samsung Galaxy A36 5g 128gb 6gb Ram Câmera Tripla De Até 50mp Selfie De 12mp Ip67 Super Amoled 6.7'' Nfc Recursos Ai Android E Se",
+      "price": 1509.0,
+      "original_price": 2815.0,
       "discount": 46,
-      "permalink": "https://meli.la/17QRmnn",
+      "permalink": "https://meli.la/1zqGJDc",
       "categoria": "Celulares",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_927393-MLA100014745899_122025-AB.webp",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_705075-MLA99943632917_112025-AB.webp",
+      "emoji": "📱",
+      "destaque": true
+    },
+    {
+      "title": "Samsung Galaxy Watch7 Smartwatch 44mm Bt Galaxy Ai - Prata Prateado",
+      "price": 1072.0,
+      "original_price": 1999.0,
+      "discount": 46,
+      "permalink": "https://meli.la/1XBPJVt",
+      "categoria": "Celulares",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_817841-MLA96419513000_102025-AB.webp",
       "emoji": "📱",
       "destaque": true
     },
@@ -861,13 +817,24 @@
       "destaque": true
     },
     {
-      "title": "Perfume Masculino Arabe Salvo Intense 100ml Original C/ Nf",
-      "price": 149.0,
-      "original_price": 277.0,
+      "title": "Calça Tactel Jogger Com Elastano Active Wear Void Verão",
+      "price": 37.0,
+      "original_price": 68.0,
       "discount": 46,
-      "permalink": "https://meli.la/1UyrTaQ",
+      "permalink": "https://meli.la/2z5gg99",
+      "categoria": "Moda",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_880618-MLB95661478919_102025-O-calca-tactel-jogger-com-elastano-active-wear-void-vero.webp",
+      "emoji": "👗",
+      "destaque": true
+    },
+    {
+      "title": "Loção Hidratante Corporal Sem Perfume, Com Ceramidas Essenciais E Ácido Hialurônico, Textura Fluida Cerave 473ml Sem Fragrância",
+      "price": 76.0,
+      "original_price": 141.0,
+      "discount": 46,
+      "permalink": "https://meli.la/2Ffqqim",
       "categoria": "Beleza",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_674365-MLB91144003669_082025-AB.webp",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_690107-MLA106787927508_022026-AB.webp",
       "emoji": "💄",
       "destaque": true
     },
@@ -883,6 +850,39 @@
       "destaque": true
     },
     {
+      "title": "Prancha Alisadora Mondial Golden Rose/preto Bivolt P-20 Ouro Rosa/preto 127/220v",
+      "price": 97.0,
+      "original_price": 179.0,
+      "discount": 46,
+      "permalink": "https://meli.la/1asEDM7",
+      "categoria": "Beleza",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_937184-MLA100013378601_122025-AB.webp",
+      "emoji": "💄",
+      "destaque": true
+    },
+    {
+      "title": "Bicicleta Ergométrica Fitness Para Cardio E Musculação Com Base Cor Preto E Vermelho 6kg Inercia Marca Sevenfit",
+      "price": 589.0,
+      "original_price": 1094.0,
+      "discount": 46,
+      "permalink": "https://meli.la/1o3Zfdf",
+      "categoria": "Bebê",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_679526-MLA100501405537_122025-AB.webp",
+      "emoji": "👶",
+      "destaque": true
+    },
+    {
+      "title": "Jogo De Ferramentas 169 Peças Com Maleta E Furadeira Parafusadeira Sem Fio A Bateria Tb-12e 12v 3/8 10mm The Black Tools",
+      "price": 268.0,
+      "original_price": 493.0,
+      "discount": 46,
+      "permalink": "https://meli.la/23giNit",
+      "categoria": "Bebê",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_783124-MLA109307987120_042026-AB.webp",
+      "emoji": "👶",
+      "destaque": true
+    },
+    {
       "title": "Olhos Vazios, De Donlea, Charlie., Vol. Único. Editorial Faro Editorial, Capa Mole, Edição 1 Em Português, 2023",
       "price": 40.0,
       "original_price": 74.0,
@@ -891,17 +891,6 @@
       "categoria": "Livros",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_662525-MLU78941815586_092024-AB.webp",
       "emoji": "📚",
-      "destaque": true
-    },
-    {
-      "title": "Smart Tv 24   Led Hd Weyon Android Tv Hdmi Usb Wifi 100/240v",
-      "price": 709.0,
-      "original_price": 1299.0,
-      "discount": 45,
-      "permalink": "https://meli.la/2dm1peF",
-      "categoria": "Eletrônicos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_656825-MLB95291925629_102025-AB.webp",
-      "emoji": "🔌",
       "destaque": true
     },
     {
@@ -916,25 +905,14 @@
       "destaque": true
     },
     {
-      "title": "Livro Os Últimos Quadrinhos Da Terra Max Brallier E Joshua Pruett Volume 1 Edição 1 Português 2025 Editora Milk Shakespeare",
-      "price": 38.0,
-      "original_price": 69.0,
+      "title": "Perfume Masculino Arabe Salvo Intense 100ml Original C/ Nf",
+      "price": 152.0,
+      "original_price": 277.0,
       "discount": 45,
-      "permalink": "https://meli.la/16Sr4jT",
-      "categoria": "Livros",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_938046-MLA83788278887_042025-AB.webp",
-      "emoji": "📚",
-      "destaque": true
-    },
-    {
-      "title": "Um Amor Nada Tradicional - Sucesso Do Tiktok, De Heidi Shertok. Editora Faro Editorial, Capa Mole Em Português, 2023",
-      "price": 38.0,
-      "original_price": 69.0,
-      "discount": 45,
-      "permalink": "https://meli.la/1PATcgv",
-      "categoria": "Livros",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_767919-MLU77226888510_072024-AB.webp",
-      "emoji": "📚",
+      "permalink": "https://meli.la/1UyrTaQ",
+      "categoria": "Beleza",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_674365-MLB91144003669_082025-AB.webp",
+      "emoji": "💄",
       "destaque": true
     },
     {
@@ -945,6 +923,17 @@
       "permalink": "https://meli.la/1mZn8rt",
       "categoria": "Livros",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_910458-MLU50423106641_062022-AB.webp",
+      "emoji": "📚",
+      "destaque": true
+    },
+    {
+      "title": "Livro Os Últimos Quadrinhos Da Terra Max Brallier E Joshua Pruett Volume 1 Edição 1 Português 2025 Editora Milk Shakespeare",
+      "price": 38.0,
+      "original_price": 69.0,
+      "discount": 45,
+      "permalink": "https://meli.la/16Sr4jT",
+      "categoria": "Livros",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_938046-MLA83788278887_042025-AB.webp",
       "emoji": "📚",
       "destaque": true
     },
@@ -982,14 +971,25 @@
       "destaque": true
     },
     {
-      "title": "Transmissor Receptor Hdmi Sem Fio Wireless 1080p Full Hd 50m Metros Transmite Espelha Tv Ps5 Video Pc Notebook D Densen",
-      "price": 279.0,
-      "original_price": 499.0,
+      "title": "Polo Aramis Masculina Piquet Lisa Light Icon Preta Original",
+      "price": 151.0,
+      "original_price": 269.0,
       "discount": 44,
-      "permalink": "https://meli.la/2k9Suwx",
-      "categoria": "Eletrônicos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_669480-MLA96965404169_112025-AB.webp",
-      "emoji": "🔌",
+      "permalink": "https://meli.la/14s9GPh",
+      "categoria": "Moda",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_756868-MLB95724530576_102025-O-polo-aramis-masculina-piquet-lisa-light-icon-preta-original.webp",
+      "emoji": "👗",
+      "destaque": true
+    },
+    {
+      "title": "Tênis Casual Feminino Anacapri Confortável Leve Resistente",
+      "price": 139.0,
+      "original_price": 249.0,
+      "discount": 44,
+      "permalink": "https://meli.la/1hidAhV",
+      "categoria": "Moda",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_701757-MLB83473936308_042025-O-tnis-casual-feminino-anacapri-confortavel-leve-resistente.webp",
+      "emoji": "👗",
       "destaque": true
     },
     {
@@ -1001,6 +1001,17 @@
       "categoria": "Beleza",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_722248-MLA99466586714_112025-AB.webp",
       "emoji": "💄",
+      "destaque": true
+    },
+    {
+      "title": "Honeywhale G3 Pro Patinete Elétrico Adulto, 1640w-60km/h-56km-18ah, Scooter-eletrica-velocidade-juvenil-dobrável-autonomia-de-capacidade-car",
+      "price": 6585.0,
+      "original_price": 11665.0,
+      "discount": 44,
+      "permalink": "https://meli.la/2vzsR4V",
+      "categoria": "Brinquedos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_674840-MLA99509650110_112025-AB.webp",
+      "emoji": "🧸",
       "destaque": true
     },
     {
@@ -1037,39 +1048,6 @@
       "destaque": true
     },
     {
-      "title": "Celular Smartphone Realme C73 256gb 8gb Ram Dual Sim 120hz 6000mah Verde",
-      "price": 1149.0,
-      "original_price": 1999.0,
-      "discount": 43,
-      "permalink": "https://meli.la/1VxhTuw",
-      "categoria": "Celulares",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_999325-MLA102615422841_122025-AB.webp",
-      "emoji": "📱",
-      "destaque": true
-    },
-    {
-      "title": "Celular Smartphone Realme C73 256gb 8gb Ram Dual Sim 120hz 6000mah Violeta",
-      "price": 1149.0,
-      "original_price": 1999.0,
-      "discount": 43,
-      "permalink": "https://meli.la/2esgfRW",
-      "categoria": "Celulares",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_653269-MLA102616675647_122025-AB.webp",
-      "emoji": "📱",
-      "destaque": true
-    },
-    {
-      "title": "Kit4 Tintas544 Original Ecotankcolor L3110 L3150 L3160 L3250 Kit",
-      "price": 173.0,
-      "original_price": 304.0,
-      "discount": 43,
-      "permalink": "https://meli.la/1bKXsVp",
-      "categoria": "Informática",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_715899-MLB106375927716_022026-AB.webp",
-      "emoji": "💻",
-      "destaque": true
-    },
-    {
       "title": "Monitor Aoc 22 120hz 1ms Gaming Hdmi 22b35hm23 Preto 127/220v",
       "price": 458.0,
       "original_price": 799.0,
@@ -1077,28 +1055,6 @@
       "permalink": "https://meli.la/2CSazSh",
       "categoria": "Informática",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_744601-MLA99934274785_112025-AB.webp",
-      "emoji": "💻",
-      "destaque": true
-    },
-    {
-      "title": "Smart Projetor Hy300 Mini Projetor Suporta 4k 5g Full Hd 4k Bluetooth Wifi Several Cor Branco Android 11.0 5g Tv Cinema Em Casa Branco 127/2",
-      "price": 169.0,
-      "original_price": 299.0,
-      "discount": 43,
-      "permalink": "https://meli.la/1sxLePV",
-      "categoria": "Informática",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_752031-MLA97933964606_112025-AB.webp",
-      "emoji": "💻",
-      "destaque": true
-    },
-    {
-      "title": "Tp-link Archer Ax53 Roteador Wifi6 Ax3000 Gigabit Banda Dupla",
-      "price": 245.0,
-      "original_price": 429.0,
-      "discount": 43,
-      "permalink": "https://meli.la/1esariw",
-      "categoria": "Informática",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_927286-MLA99452927274_112025-AB.webp",
       "emoji": "💻",
       "destaque": true
     },
@@ -1114,6 +1070,17 @@
       "destaque": true
     },
     {
+      "title": "Smart Projetor Hy300 Mini Projetor Suporta 4k 5g Full Hd 4k Bluetooth Wifi Several Cor Branco Android 11.0 5g Tv Cinema Em Casa Branco 127/2",
+      "price": 169.0,
+      "original_price": 299.0,
+      "discount": 43,
+      "permalink": "https://meli.la/1sxLePV",
+      "categoria": "Informática",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_752031-MLA97933964606_112025-AB.webp",
+      "emoji": "💻",
+      "destaque": true
+    },
+    {
       "title": "Espelho Vildrex Roma 70x50cm Design Moderno Lapidado Luxo Suporte",
       "price": 56.0,
       "original_price": 98.0,
@@ -1121,17 +1088,6 @@
       "permalink": "https://meli.la/2gDLPcE",
       "categoria": "Eletrodomésticos",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_737366-MLB95371198573_102025-AB.webp",
-      "emoji": "🏠",
-      "destaque": true
-    },
-    {
-      "title": "Câmera Segurança Ip Interna Externa Wifi A28 App Icsee Prova Dagua Ip66 Dome Lente Dupla Lentes 2 Em 1 Vigilância Visão Noturna Infravermelh",
-      "price": 119.0,
-      "original_price": 210.0,
-      "discount": 43,
-      "permalink": "https://meli.la/2w5HArR",
-      "categoria": "Eletrodomésticos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_762493-MLA105887557792_022026-AB.webp",
       "emoji": "🏠",
       "destaque": true
     },
@@ -1147,6 +1103,28 @@
       "destaque": true
     },
     {
+      "title": "Jogo De Panelas Indução Mimo Cerâmica 12 Peças Mármol Cor Marmol Mármore",
+      "price": 367.0,
+      "original_price": 646.0,
+      "discount": 43,
+      "permalink": "https://meli.la/1wuo2Kb",
+      "categoria": "Eletrodomésticos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_924342-MLA100076756669_122025-AB.webp",
+      "emoji": "🏠",
+      "destaque": true
+    },
+    {
+      "title": "Câmera Segurança Ip Interna Externa Wifi A28 App Icsee Prova Dagua Ip66 Dome Lente Dupla Lentes 2 Em 1 Vigilância Visão Noturna Infravermelh",
+      "price": 119.0,
+      "original_price": 210.0,
+      "discount": 43,
+      "permalink": "https://meli.la/2w5HArR",
+      "categoria": "Eletrodomésticos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_762493-MLA105887557792_022026-AB.webp",
+      "emoji": "🏠",
+      "destaque": true
+    },
+    {
       "title": "Kit Body Splash Masculino Barbarius E Midtown 200ml - Primacial Perfume Fresco Amadeirado",
       "price": 79.0,
       "original_price": 139.0,
@@ -1158,25 +1136,14 @@
       "destaque": true
     },
     {
-      "title": "Mesa De Totó Pebolim Pimbolim Infantil Jogos Grande Com Pés Verde",
-      "price": 224.0,
-      "original_price": 396.0,
+      "title": "Corrupcao Da Linguagem, Corrupcao Do Carater - Como O Ativismo Woke Esta Destruindo O Ocidente, De Silva, Patricia. Editorial Faro Editorial",
+      "price": 28.0,
+      "original_price": 49.0,
       "discount": 43,
-      "permalink": "https://meli.la/178VMHA",
-      "categoria": "Brinquedos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_691975-MLB96630460537_102025-AB.webp",
-      "emoji": "🧸",
-      "destaque": true
-    },
-    {
-      "title": "Trampolim Brinquedos Piscina De Bolinhas 1,50x1,50 Ziper Cor Colorido",
-      "price": 809.0,
-      "original_price": 1420.0,
-      "discount": 43,
-      "permalink": "https://meli.la/1YEewS6",
-      "categoria": "Brinquedos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_897196-MLA95703186160_102025-AB.webp",
-      "emoji": "🧸",
+      "permalink": "https://meli.la/1V6EhYC",
+      "categoria": "Livros",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_820589-MLA80176559699_102024-AB.webp",
+      "emoji": "📚",
       "destaque": true
     },
     {
@@ -1191,6 +1158,17 @@
       "destaque": true
     },
     {
+      "title": "Campainha Sem Fio Cib 101 Intelbras Alcance Até 100 Metros Cor Preto",
+      "price": 62.0,
+      "original_price": 106.0,
+      "discount": 42,
+      "permalink": "https://meli.la/1EtoTy3",
+      "categoria": "Eletrodomésticos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_922668-MLA99939956787_112025-AB.webp",
+      "emoji": "🏠",
+      "destaque": true
+    },
+    {
       "title": "Jogo Talheres Faqueiro Búzios Aço Inox 24 Peças Tramontina Aço Inoxidável",
       "price": 63.0,
       "original_price": 108.0,
@@ -1202,28 +1180,6 @@
       "destaque": true
     },
     {
-      "title": "Irrigador Oral Portátil Ipx7 De 400ml Com Jato Forte Pulsado 8 Modos, 5 Bicos,bivolt Para Limpeza Bucal E Prótese Dentária Preto 127/220v",
-      "price": 179.0,
-      "original_price": 309.0,
-      "discount": 42,
-      "permalink": "https://meli.la/1TzY7oU",
-      "categoria": "Beleza",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_612686-MLA105585542940_012026-AB.webp",
-      "emoji": "💄",
-      "destaque": true
-    },
-    {
-      "title": "Bicicleta Infantil Aro 12 Com Rodinhas Lillo Vermelho E Azul Vermelho 45 Cm",
-      "price": 172.0,
-      "original_price": 295.0,
-      "discount": 42,
-      "permalink": "https://meli.la/21ZASZF",
-      "categoria": "Brinquedos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_939524-MLB104144629337_012026-AB.webp",
-      "emoji": "🧸",
-      "destaque": true
-    },
-    {
       "title": "Impressora Multifuncional Cor Epson Ecotank L3250 Preto 127/220v",
       "price": 1011.0,
       "original_price": 1712.0,
@@ -1231,17 +1187,6 @@
       "permalink": "https://meli.la/19uAsx3",
       "categoria": "Informática",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_827740-MLA99943629541_112025-AB.webp",
-      "emoji": "💻",
-      "destaque": true
-    },
-    {
-      "title": "Monitor Gamer Aoc 21.5'' Full Hd Gaming 120hz 1ms 22b30hm23 Cor Preto 127/220v",
-      "price": 410.0,
-      "original_price": 699.0,
-      "discount": 41,
-      "permalink": "https://meli.la/1oEzE9P",
-      "categoria": "Informática",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_621055-MLA91966913733_092025-AB.webp",
       "emoji": "💻",
       "destaque": true
     },
@@ -1257,14 +1202,14 @@
       "destaque": true
     },
     {
-      "title": "Cadeira De Escritorio Presidente Ajustável Preto Couro Sintético",
-      "price": 519.0,
-      "original_price": 886.0,
+      "title": "Tênis Branco Anacapri Emma Feminino Confortável E Leve",
+      "price": 160.0,
+      "original_price": 269.0,
       "discount": 41,
-      "permalink": "https://meli.la/1q6CSPk",
-      "categoria": "Eletrodomésticos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_779261-MLA104615101756_012026-AB.webp",
-      "emoji": "🏠",
+      "permalink": "https://meli.la/1zrx2YZ",
+      "categoria": "Moda",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_685891-MLB99475491735_112025-O-tnis-branco-anacapri-emma-feminino-confortavel-e-leve.webp",
+      "emoji": "👗",
       "destaque": true
     },
     {
@@ -1279,14 +1224,25 @@
       "destaque": true
     },
     {
-      "title": "Impressora Multifuncional Hp Deskjet Ink Advantage 2975 Colorida 1 Usb 2.0 De Alta Velocidade Wi-fi De Banda Dupla - 100 A 240 Vca - Aj4y4a#",
-      "price": 484.0,
-      "original_price": 800.0,
-      "discount": 40,
-      "permalink": "https://meli.la/32zuzeQ",
-      "categoria": "Informática",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_641445-MLA107256158981_022026-AB.webp",
-      "emoji": "💻",
+      "title": "Perfume Masculino Al Wataniah Attar Al Wesal 100ml Original",
+      "price": 173.0,
+      "original_price": 293.0,
+      "discount": 41,
+      "permalink": "https://meli.la/332Lb6F",
+      "categoria": "Beleza",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_711471-MLB82403267263_022025-AB.webp",
+      "emoji": "💄",
+      "destaque": true
+    },
+    {
+      "title": "Box - Socorro Cai Dentro Do Videogame, De Dustin. Editora Faro Em Português",
+      "price": 97.0,
+      "original_price": 164.0,
+      "discount": 41,
+      "permalink": "https://meli.la/1nz6k2e",
+      "categoria": "Livros",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_931894-MLA99558124672_122025-AB.webp",
+      "emoji": "📚",
       "destaque": true
     },
     {
@@ -1301,25 +1257,47 @@
       "destaque": true
     },
     {
+      "title": "Impressora Multifuncional Hp Deskjet Ink Advantage 2975 Colorida 1 Usb 2.0 De Alta Velocidade Wi-fi De Banda Dupla - 100 A 240 Vca - Aj4y4a#",
+      "price": 484.0,
+      "original_price": 800.0,
+      "discount": 40,
+      "permalink": "https://meli.la/32zuzeQ",
+      "categoria": "Informática",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_641445-MLA107256158981_022026-AB.webp",
+      "emoji": "💻",
+      "destaque": true
+    },
+    {
+      "title": "Monitor Acer Led Mk241y Flt, 23,8 Full Hd, Zero Frame, 100hz Preto 127/220v",
+      "price": 483.0,
+      "original_price": 799.0,
+      "discount": 40,
+      "permalink": "https://meli.la/1Hvzexk",
+      "categoria": "Informática",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_739717-MLA97428488825_112025-AB.webp",
+      "emoji": "💻",
+      "destaque": true
+    },
+    {
       "title": "Smart Tv Philco 40 P40vik Led Roku Dolby Audio Wi-fi Hdmi Hdr Full Hd 110/220v",
       "price": 1259.0,
       "original_price": 2099.0,
       "discount": 40,
       "permalink": "https://meli.la/2hnwqS4",
-      "categoria": "TV e Vídeo",
+      "categoria": "Eletrônicos",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_797485-MLA109558284021_032026-AB.webp",
-      "emoji": "📺",
+      "emoji": "🔌",
       "destaque": true
     },
     {
-      "title": "Kemei Maquina De Acabamento Km 2299 Profissional Cor Black",
-      "price": 87.0,
-      "original_price": 145.0,
-      "discount": 40,
-      "permalink": "https://meli.la/154HzvS",
-      "categoria": "Beleza",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_968734-MLA101181433884_122025-AB.webp",
-      "emoji": "💄",
+      "title": "Kit De Internet Via Satelite Starlink Mini Branco",
+      "price": 891.0,
+      "original_price": 1469.0,
+      "discount": 39,
+      "permalink": "https://meli.la/2PmigrA",
+      "categoria": "Informática",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_799612-MLA95359719699_102025-AB.webp",
+      "emoji": "💻",
       "destaque": true
     },
     {
@@ -1328,9 +1306,31 @@
       "original_price": 2999.0,
       "discount": 39,
       "permalink": "https://meli.la/1Rwkw3K",
-      "categoria": "TV e Vídeo",
+      "categoria": "Eletrônicos",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_879007-MLA107588019293_022026-AB.webp",
-      "emoji": "📺",
+      "emoji": "🔌",
+      "destaque": true
+    },
+    {
+      "title": "Short Duplo Compreensão Fitness Bermuda Academia Feminino",
+      "price": 33.0,
+      "original_price": 54.0,
+      "discount": 39,
+      "permalink": "https://meli.la/2nJtuJP",
+      "categoria": "Moda",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_615145-MLB90274630198_082025-O-short-duplo-compreenso-fitness-bermuda-academia-feminino.webp",
+      "emoji": "👗",
+      "destaque": true
+    },
+    {
+      "title": "Chinelo Coca-cola Masculino Preto Super Macio",
+      "price": 42.0,
+      "original_price": 69.0,
+      "discount": 39,
+      "permalink": "https://meli.la/2khejn9",
+      "categoria": "Moda",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_844133-MLB103007523653_122025-O-chinelo-coca-cola-masculino-preto-super-macio.webp",
+      "emoji": "👗",
       "destaque": true
     },
     {
@@ -1356,6 +1356,17 @@
       "destaque": true
     },
     {
+      "title": "Boneco Funko Pop! Pokémon - Dragonite (emea) #850 Candide",
+      "price": 88.0,
+      "original_price": 142.0,
+      "discount": 38,
+      "permalink": "https://meli.la/2sdf5Vz",
+      "categoria": "Brinquedos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_760703-MLA99891322713_112025-AB.webp",
+      "emoji": "🧸",
+      "destaque": true
+    },
+    {
       "title": "Smart Tv Samsung 43 Ls43f6000fgxzd Full Hd Led 110v/220v",
       "price": 1672.0,
       "original_price": 2665.0,
@@ -1367,14 +1378,14 @@
       "destaque": true
     },
     {
-      "title": "Smart Tv Samsung Led 65 Lh65befh4ggxzd Led Crystal Processor 4k Uhd Tizen 110v/220v",
-      "price": 3679.0,
-      "original_price": 5799.0,
+      "title": "365 Dias Com Deus",
+      "price": 37.0,
+      "original_price": 59.0,
       "discount": 37,
-      "permalink": "https://meli.la/1GKrsNJ",
-      "categoria": "TV e Vídeo",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_712967-MLA96969981644_112025-AB.webp",
-      "emoji": "📺",
+      "permalink": "https://meli.la/2vnYYz3",
+      "categoria": "Livros",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_855441-MLA95471032484_102025-AB.webp",
+      "emoji": "📚",
       "destaque": true
     },
     {
@@ -1400,14 +1411,25 @@
       "destaque": true
     },
     {
-      "title": "Tenda Barraca Infantil Bebê Piscina Areia Praia Proteção Uv",
-      "price": 129.0,
-      "original_price": 199.0,
+      "title": "Livro Wonderland -país Das Maravilhas",
+      "price": 45.0,
+      "original_price": 69.0,
       "discount": 35,
-      "permalink": "https://meli.la/2szA54p",
-      "categoria": "Brinquedos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_790227-MLB94273167355_102025-O-tenda-barraca-infantil-beb-piscina-areia-praia-proteco-uv.webp",
-      "emoji": "🧸",
+      "permalink": "https://meli.la/1SgEffc",
+      "categoria": "Livros",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_657478-MLA109215047182_042026-AB.webp",
+      "emoji": "📚",
+      "destaque": true
+    },
+    {
+      "title": "Smart Tv Profissional LG 43  Full Hd Processador A5 Ger6 Ai Alexa Integrada Webos 23  43lr671c-b",
+      "price": 1576.0,
+      "original_price": 2290.0,
+      "discount": 31,
+      "permalink": "https://meli.la/195K7xh",
+      "categoria": "TV e Vídeo",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_929244-MLA104540336039_012026-AB.webp",
+      "emoji": "📺",
       "destaque": true
     },
     {
@@ -1422,6 +1444,39 @@
       "destaque": true
     },
     {
+      "title": "Cadeira De Descanso Balanço Vibratória Para Bebê Rosa Com Brinquedos Florido",
+      "price": 159.0,
+      "original_price": 228.0,
+      "discount": 30,
+      "permalink": "https://meli.la/16ARMRF",
+      "categoria": "Brinquedos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_677469-MLA100480755010_122025-AB.webp",
+      "emoji": "🧸",
+      "destaque": true
+    },
+    {
+      "title": "Smart Tv Philips 65 65pug7019",
+      "price": 2944.0,
+      "original_price": 4120.0,
+      "discount": 29,
+      "permalink": "https://meli.la/1fiAs3k",
+      "categoria": "TV e Vídeo",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_705385-MLA99570820134_122025-AB.webp",
+      "emoji": "📺",
+      "destaque": true
+    },
+    {
+      "title": "Carro Infantil 12v Elétrico Usb Bluetooth Musica Usb Luz Led Vermelho 127/220v",
+      "price": 776.0,
+      "original_price": 1099.0,
+      "discount": 29,
+      "permalink": "https://meli.la/2E3p7uy",
+      "categoria": "Brinquedos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_637425-MLA100461475167_122025-AB.webp",
+      "emoji": "🧸",
+      "destaque": true
+    },
+    {
       "title": "Trampolim Brinquedos 3.05m Preto Com Proteção Colorida Colorido",
       "price": 1174.0,
       "original_price": 1654.0,
@@ -1433,36 +1488,36 @@
       "destaque": true
     },
     {
-      "title": "Smart Tv LG Uhd Ai Ua75 50 Polegadas Hdr10 Pro Processador 7 Ai Ger8 Webos 25",
-      "price": 2374.0,
-      "original_price": 3299.0,
-      "discount": 28,
-      "permalink": "https://meli.la/1VgFY3A",
+      "title": "Smart Tv Samsung Un32t4300a 32  Hd Led",
+      "price": 1099.0,
+      "original_price": 1499.0,
+      "discount": 27,
+      "permalink": "https://meli.la/2iCerZQ",
       "categoria": "TV e Vídeo",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_884169-MLA106908124660_022026-AB.webp",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_713654-MLA99465095470_112025-AB.webp",
       "emoji": "📺",
       "destaque": true
     },
     {
-      "title": "Boneco Pelúcia Sonic 50cm Grande Envio Imediato Infantil Top Azul",
-      "price": 43.0,
-      "original_price": 59.0,
-      "discount": 27,
-      "permalink": "https://meli.la/1p5j9pw",
-      "categoria": "Brinquedos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_613998-MLB94609824874_102025-AB.webp",
-      "emoji": "🧸",
+      "title": "Smart Tv 50 Aoc 4k Dled 50u7045/78g Roku Tv Quad",
+      "price": 1701.0,
+      "original_price": 2284.0,
+      "discount": 26,
+      "permalink": "https://meli.la/15TGEXa",
+      "categoria": "TV e Vídeo",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_648316-MLA99473453820_112025-AB.webp",
+      "emoji": "📺",
       "destaque": true
     },
     {
-      "title": "Triciclo Motoquinha Duas Cesta Vermelho Velocipede Infantil",
-      "price": 164.0,
-      "original_price": 226.0,
-      "discount": 27,
-      "permalink": "https://meli.la/1mb5xFd",
-      "categoria": "Brinquedos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_713689-MLA95693115040_102025-AB.webp",
-      "emoji": "🧸",
+      "title": "O Príncipe, De Maquiavel, Nicolau. Editora Veríssimo, Capa Mole Em Português, 2023",
+      "price": 18.0,
+      "original_price": 24.0,
+      "discount": 25,
+      "permalink": "https://meli.la/2wxE6XN",
+      "categoria": "Livros",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_650683-MLU77227422744_072024-AB.webp",
+      "emoji": "📚",
       "destaque": true
     },
     {
