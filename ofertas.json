@@ -1,6 +1,6 @@
 {
-  "atualizado": "29/08/2026 15:28",
-  "total": 128,
+  "atualizado": "29/08/2026 19:39",
+  "total": 127,
   "ofertas": [
     {
       "title": "Álbum Copa Do Mundo 26 Dourado Ouro Oficial + 140 Figurinha",
@@ -11,6 +11,17 @@
       "categoria": "Brinquedos",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_923414-MLB110550719764_052026-O--album-copa-do-mundo-26-dourado-ouro-oficial--140-figurinha.webp",
       "emoji": "🧸",
+      "destaque": false
+    },
+    {
+      "title": "Bola De Tênis Profissional All Court Kit 6 Tubos 18 Bolas",
+      "price": 195.0,
+      "original_price": 918.0,
+      "discount": 79,
+      "permalink": "https://www.mercadolivre.com.br/bola-de-tenis-profissional-all-court-kit-6-tubos-18-bolas/up/MLBU3938117845?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Esportes",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_901456-MLB111278898747_052026-O--bola-de-tenis-profissional-all-court-kit-6-tubos-18-bolas.webp",
+      "emoji": "⚽",
       "destaque": false
     },
     {
@@ -25,14 +36,14 @@
       "destaque": false
     },
     {
-      "title": "Caminhão Dinossauro T-rex Que Engole Carros Con 6 Bolinhas Lançador De Carros E Bolas + Garagem Expansível Azul",
-      "price": 151.0,
-      "original_price": 600.0,
+      "title": "Escorredor De Louça Inox Duplo 2 Níveis Porta Talheres Luxo Preto",
+      "price": 79.0,
+      "original_price": 322.0,
       "discount": 75,
-      "permalink": "https://www.mercadolivre.com.br/caminhao-dinossauro-trex-que-engole-carros-con-6-bolinhas/up/MLBU3870852255?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Brinquedos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_947127-MLB110853896700_052026-O--caminhao-dinossauro-trex-que-engole-carros-con-6-bolinhas.webp",
-      "emoji": "🧸",
+      "permalink": "https://www.mercadolivre.com.br/escorredor-de-louca-inox-duplo-2-niveis-porta-talheres-luxo/up/MLBU4621419443?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Eletrodomésticos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_774354-MLB115870662993_082026-O--escorredor-de-louca-inox-duplo-2-niveis-porta-talheres-luxo.webp",
+      "emoji": "🏠",
       "destaque": false
     },
     {
@@ -47,25 +58,36 @@
       "destaque": false
     },
     {
-      "title": "Cadeira Escritório Oficial Diretor Mesh Ergonômica Office Preto Tela Mesh",
-      "price": 109.0,
-      "original_price": 389.0,
-      "discount": 72,
-      "permalink": "https://www.mercadolivre.com.br/cadeira-escritorio-oficial-diretor-mesh-ergonomica-office/up/MLBU4304807429?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Eletrodomésticos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_987924-MLB113927067036_072026-O--cadeira-escritorio-oficial-diretor-mesh-ergonomica-office.webp",
-      "emoji": "🏠",
+      "title": "Enssu Aparador De Pelos Corporais Masculino Com Base Cor Preto",
+      "price": 140.0,
+      "original_price": 489.0,
+      "discount": 71,
+      "permalink": "https://www.mercadolivre.com.br/enssu-aparador-de-pelos-corporais-masculino-com-base-cor-preto/p/MLB64782697?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Beleza",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_675986-MLA105505684529_012026-AB.webp",
+      "emoji": "💄",
       "destaque": false
     },
     {
-      "title": "Fone De Ouvido Bluetooth Sem Fio Bateria de Longa Duração Pro 4 Branco Conecta Rápido Fast Plug Com Case Carregador E Microfone",
-      "price": 23.0,
-      "original_price": 78.0,
+      "title": "Enssu Aparador De Pelos Corporais Masculino Com Base Cor Azul",
+      "price": 140.0,
+      "original_price": 489.0,
       "discount": 71,
-      "permalink": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-sem-fio-bateria-de-longa-duracao-pro-4-branco-conecta-rapido-fast-plug-com-case-carregador-e-microfone/p/MLB25263382?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Celulares",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_794758-MLA115349856152_082026-AB.webp",
-      "emoji": "📱",
+      "permalink": "https://www.mercadolivre.com.br/enssu-aparador-de-pelos-corporais-masculino-com-base-cor-azul/p/MLB65182534?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Beleza",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_979722-MLA105748350228_022026-AB.webp",
+      "emoji": "💄",
+      "destaque": false
+    },
+    {
+      "title": "Livro O Pequeno Príncipe Original Lacrado Capa Dura",
+      "price": 20.0,
+      "original_price": 69.0,
+      "discount": 71,
+      "permalink": "https://www.mercadolivre.com.br/livro-o-pequeno-principe-original-lacrado-capa-dura/up/MLBU4082610480?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Livros",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_796434-MLB113036143239_062026-O--livro-o-pequeno-principe-original-lacrado-capa-dura.webp",
+      "emoji": "📚",
       "destaque": false
     },
     {
@@ -85,9 +107,9 @@
       "original_price": 199.0,
       "discount": 70,
       "permalink": "https://www.mercadolivre.com.br/mini-compressor-de-ar-digital-portatil-recarregavel-usb-c-lumi-para-pneus-de-carro-moto-e-bicicleta-inflador-eletrico-de-bolas-e-inflaveis-display-lcd-alta-pressao-sem-fio-preto/p/MLB66484377?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Ofertas do Dia",
+      "categoria": "Esportes",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_812857-MLA109586548676_042026-AB.webp",
-      "emoji": "🔥",
+      "emoji": "⚽",
       "destaque": false
     },
     {
@@ -102,13 +124,13 @@
       "destaque": false
     },
     {
-      "title": "Hipercalórico Dark Mass 3kg Dark Lab Sabor Baunilha",
+      "title": "Hipercalórico Dark Mass 3kg Chocolate Branco c/ Morango Dark Lab",
       "price": 78.0,
       "original_price": 249.0,
       "discount": 69,
-      "permalink": "https://www.mercadolivre.com.br/hipercalorico-dark-mass-3kg-dark-lab-sabor-baunilha/p/MLB19451614?matt_word=birutaofertas&matt_tool=48037708",
+      "permalink": "https://www.mercadolivre.com.br/hipercalorico-dark-mass-3kg-chocolate-branco-c-morango-dark-lab/p/MLB19451610?matt_word=birutaofertas&matt_tool=48037708",
       "categoria": "Esportes",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_852996-MLA99937703973_112025-AB.webp",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_894319-MLA99934921621_112025-AB.webp",
       "emoji": "⚽",
       "destaque": false
     },
@@ -135,39 +157,6 @@
       "destaque": false
     },
     {
-      "title": "Enssu Aparador Corporal Elétrico Impermeável Para Homens Verde 12v",
-      "price": 189.0,
-      "original_price": 599.0,
-      "discount": 68,
-      "permalink": "https://www.mercadolivre.com.br/enssu-aparador-corporal-eletrico-impermeavel-para-homens/up/MLBU3857055857?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Beleza",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_850763-MLB108595901666_032026-O--enssu-aparador-corporal-eletrico-impermeavel-para-homens.webp",
-      "emoji": "💄",
-      "destaque": false
-    },
-    {
-      "title": "Carrinho Controle Remoto Off Road 4x4 Alta Velocidade 80km Buggy Conquer Veículo Rc Rosa Ligeiro",
-      "price": 505.0,
-      "original_price": 1597.0,
-      "discount": 68,
-      "permalink": "https://www.mercadolivre.com.br/carrinho-controle-remoto-off-road-4x4-alta-velocidade-80km-buggy-conquer-veiculo-rc-rosa-ligeiro/p/MLB64224405?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Brinquedos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_976176-MLA104122176634_012026-AB.webp",
-      "emoji": "🧸",
-      "destaque": false
-    },
-    {
-      "title": "Carrinho Off-Road Atacarejo Kids Storm Riders 1:16 de Metal 4x4 Com 2 Baterias e Luzes",
-      "price": 82.0,
-      "original_price": 259.0,
-      "discount": 68,
-      "permalink": "https://www.mercadolivre.com.br/carrinho-off-road-atacarejo-kids-storm-riders-116-de-metal-4x4-com-2-baterias-e-luzes/p/MLB69559508?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Brinquedos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_606209-MLA112145948166_062026-AB.webp",
-      "emoji": "🧸",
-      "destaque": false
-    },
-    {
       "title": "Whey Protein Concentrado 1kg Sabor Chocolate Belga Soldiers Nutrition Rico em Proteína Treino",
       "price": 147.0,
       "original_price": 429.0,
@@ -179,28 +168,6 @@
       "destaque": false
     },
     {
-      "title": "Boneca Patinadora Infantil Canta Dança Patina Com Luzes Coloridas E Pilhas Inclusas Brinquedo Musical Para Meninas",
-      "price": 58.0,
-      "original_price": 171.0,
-      "discount": 66,
-      "permalink": "https://www.mercadolivre.com.br/boneca-patinadora-infantil-canta-danca-patina-com-luzes-coloridas-e-pilhas-inclusas-brinquedo-musical-para-meninas/p/MLB48927794?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Brinquedos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_788444-MLA112538537681_052026-AB.webp",
-      "emoji": "🧸",
-      "destaque": false
-    },
-    {
-      "title": "Carro Controle Remoto Recarregável ZLL-108A Luz LED 4x4 Acrobático",
-      "price": 139.0,
-      "original_price": 399.0,
-      "discount": 65,
-      "permalink": "https://www.mercadolivre.com.br/carro-controle-remoto-recarregavel-zll-108a-luz-led-4x4-acrobatico/p/MLB53435273?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Brinquedos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_758514-MLA91600359336_092025-AB.webp",
-      "emoji": "🧸",
-      "destaque": false
-    },
-    {
       "title": "Kit 70 Figurinhas Do Álbum Copa Do Mundo 2026 Pronta Entrega",
       "price": 35.0,
       "original_price": 100.0,
@@ -209,6 +176,28 @@
       "categoria": "Livros",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_876614-MLB110800889269_042026-O--kit-70-figurinhas-do-album-copa-do-mundo-2026-pronta-entrega.webp",
       "emoji": "📚",
+      "destaque": false
+    },
+    {
+      "title": "Smart Tv Hdmi V10 4k Wi-fi 5g Padrão 3a Geração 2026 Preto",
+      "price": 359.0,
+      "original_price": 989.0,
+      "discount": 64,
+      "permalink": "https://www.mercadolivre.com.br/smart-tv-hdmi-v10-4k-wifi-5g-padrao-3a-geracao-2026-preto/up/MLBU4924438609?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Eletrônicos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_851388-MLB115314176894_082026-O--smart-tv-hdmi-v10-4k-wifi-5g-padrao-3a-geracao-2026-preto.webp",
+      "emoji": "🔌",
+      "destaque": false
+    },
+    {
+      "title": "Mochila Tática Impermeável Militar Reforçada Grande 50 Litros Masculina Feminina Anne Preto",
+      "price": 90.0,
+      "original_price": 249.0,
+      "discount": 64,
+      "permalink": "https://www.mercadolivre.com.br/mochila-tatica-impermeavel-militar-reforcada-grande-50-litros-masculina-feminina-anne-preto/p/MLB75780043?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Moda",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_633272-MLA115208081109_072026-AB.webp",
+      "emoji": "👗",
       "destaque": false
     },
     {
@@ -234,25 +223,25 @@
       "destaque": false
     },
     {
-      "title": "Mochila Tática Impermeável Militar Reforçada Grande 50 Litros Masculina Feminina Anne Preto",
-      "price": 92.0,
-      "original_price": 249.0,
+      "title": "Patinete Elétrico GM5 P1 Preto Dobrável com Bluetooth, 25 Km/h e Autonomia de 22 Km",
+      "price": 1159.0,
+      "original_price": 3165.0,
       "discount": 63,
-      "permalink": "https://www.mercadolivre.com.br/mochila-tatica-impermeavel-militar-reforcada-grande-50-litros-masculina-feminina-anne-preto/p/MLB75780043?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Moda",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_633272-MLA115208081109_072026-AB.webp",
-      "emoji": "👗",
+      "permalink": "https://www.mercadolivre.com.br/patinete-eletrico-gm5-p1-preto-dobravel-com-bluetooth-25-kmh-e-autonomia-de-22-km/p/MLB51757209?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Brinquedos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_711637-MLA114364475655_072026-AB.webp",
+      "emoji": "🧸",
       "destaque": false
     },
     {
-      "title": "Kit Brae Para Nutrição Linha Braé Stages Nutrition - 3 Itens",
-      "price": 102.0,
-      "original_price": 278.0,
+      "title": "Patinete Eletrico Dobravel Bluetooth Autonomia 30km 500w Preto",
+      "price": 1048.0,
+      "original_price": 2799.0,
       "discount": 63,
-      "permalink": "https://www.mercadolivre.com.br/kit-brae-para-nutricao-linha-brae-stages-nutrition-3-itens/p/MLB38836680?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Beleza",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_870625-MLA99443234956_112025-AB.webp",
-      "emoji": "💄",
+      "permalink": "https://www.mercadolivre.com.br/patinete-eletrico-dobravel-bluetooth-autonomia-30km-500w/up/MLBU3951433112?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Brinquedos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_758902-MLB115628190447_082026-O--patinete-eletrico-dobravel-bluetooth-autonomia-30km-500w.webp",
+      "emoji": "🧸",
       "destaque": false
     },
     {
@@ -278,17 +267,6 @@
       "destaque": false
     },
     {
-      "title": "Câmera Segurança Ip Externa Wifi A28 App Icsee À Prova Dágua Ip66 Dome Lente Dupla Lentes 2 Em 1 Vigilancia Visão Noturna Infravermelho  4k ",
-      "price": 133.0,
-      "original_price": 350.0,
-      "discount": 62,
-      "permalink": "https://www.mercadolivre.com.br/camera-seguranca-ip-externa-wifi-a28-app-icsee-a-prova-dagua/up/MLBU3403280878?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Eletrodomésticos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_927792-MLB91185357960_092025-O--camera-seguranca-ip-externa-wifi-a28-app-icsee-a-prova-dagua.webp",
-      "emoji": "🏠",
-      "destaque": false
-    },
-    {
       "title": "Cama Box Com Baú Preta Solteiro King + Colchão Alabama 96cm Preto",
       "price": 970.0,
       "original_price": 2578.0,
@@ -296,6 +274,17 @@
       "permalink": "https://www.mercadolivre.com.br/cama-box-com-bau-preta-solteiro-king-colchao-alabama-96cm-preto/p/MLB67837117?matt_word=birutaofertas&matt_tool=48037708",
       "categoria": "Eletrodomésticos",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_920125-MLA109417468536_042026-AB.webp",
+      "emoji": "🏠",
+      "destaque": false
+    },
+    {
+      "title": "Câmera Segurança Ip Externa Wifi A28 App Icsee À Prova Dágua Ip66 Dome Lente Dupla Lentes 2 Em 1 Vigilancia Visão Noturna Infravermelho  4k ",
+      "price": 133.0,
+      "original_price": 350.0,
+      "discount": 62,
+      "permalink": "https://www.mercadolivre.com.br/camera-seguranca-ip-externa-wifi-a28-app-icsee-a-prova-dagua/up/MLBU3403280878?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Eletrodomésticos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_927792-MLB91185357960_092025-O--camera-seguranca-ip-externa-wifi-a28-app-icsee-a-prova-dagua.webp",
       "emoji": "🏠",
       "destaque": false
     },
@@ -333,14 +322,47 @@
       "destaque": false
     },
     {
-      "title": "Kit 100 Blocos Magnéticos Construção Brinquedo Imãs Cubos 100 Brinquedo Jogo Construção Arquitetura Ingenieria",
-      "price": 83.0,
-      "original_price": 215.0,
+      "title": "Playground Espumado 4 Peças  Circuito Infantil Boucle Bege Bege",
+      "price": 394.0,
+      "original_price": 999.0,
       "discount": 61,
-      "permalink": "https://www.mercadolivre.com.br/kit-100-blocos-magneticos-construcao-brinquedo-imas-cubos/up/MLBU3321699483?matt_word=birutaofertas&matt_tool=48037708",
+      "permalink": "https://www.mercadolivre.com.br/playground-espumado-4-pecas--circuito-infantil-boucle-bege/up/MLBU3538663402?matt_word=birutaofertas&matt_tool=48037708",
       "categoria": "Brinquedos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_988071-MLA104799672871_012026-O--kit-100-blocos-magneticos-construcao-brinquedo-imas-cubos.webp",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_934355-MLB96667705240_112025-O--playground-espumado-4-pecas--circuito-infantil-boucle-bege.webp",
       "emoji": "🧸",
+      "destaque": false
+    },
+    {
+      "title": "Instrumentação Cirúrgica – 1ª Edição | CME, Centro Cirúrgico, Videocirurgia e Cirurgias Especializadas | Editora Martinari",
+      "price": 47.0,
+      "original_price": 121.0,
+      "discount": 61,
+      "permalink": "https://www.mercadolivre.com.br/instrumentacao-cirurgica-1-edicao-cme-centro-cirurgico-videocirurgia-e-cirurgias-especializadas-editora-martinari/p/MLB19776600?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Livros",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_788971-MLB31027034690_062019-AB.webp",
+      "emoji": "📚",
+      "destaque": false
+    },
+    {
+      "title": "Livro De Legislação De Trânsito Completo + Apostila Com 40 Provas Simuladas Do Detran + App De Estudos",
+      "price": 31.0,
+      "original_price": 79.0,
+      "discount": 61,
+      "permalink": "https://www.mercadolivre.com.br/livro-de-legislacao-de-transito-completo--apostila-com-40-provas-simuladas-do-detran--app-de-estudos/up/MLBU1442701101?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Livros",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_792579-MLB46042331506_052021-O--livro-de-legislacao-de-transito-completo--apostila-com-40-provas-simuladas-do-detran--app-de-estudos.webp",
+      "emoji": "📚",
+      "destaque": false
+    },
+    {
+      "title": "Enfermagem em Emergências | UTI, Oncologia, Hemoterapia, Queimados e Nefrologia | Assistência ao Paciente Crítico | 3ª Ed. 2021 | Editora Ma",
+      "price": 27.0,
+      "original_price": 69.0,
+      "discount": 61,
+      "permalink": "https://www.mercadolivre.com.br/enfermagem-em-emergencias-uti-oncologia-hemoterapia-queimados-e-nefrologia-assistencia-ao-paciente-critico-3-ed-2021-editora-martinari/p/MLB22216549?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Livros",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_775195-MLU77229665948_072024-AB.webp",
+      "emoji": "📚",
       "destaque": false
     },
     {
@@ -351,6 +373,17 @@
       "permalink": "https://www.mercadolivre.com.br/bicicleta-ergometrica-spinning-redfin-x11-rdf-al-com-roda-de-inercia-6kg-e-display-lcd/p/MLB64094334?matt_word=birutaofertas&matt_tool=48037708",
       "categoria": "Esportes",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_816113-MLA104275900297_012026-AB.webp",
+      "emoji": "⚽",
+      "destaque": false
+    },
+    {
+      "title": "Bicicleta Elétrica Dobrável EB1S 500W, até 50km com Bateria 36V 12Ah, Suspensão Traseira, Display LCD, Farol LED e USB",
+      "price": 2252.0,
+      "original_price": 5699.0,
+      "discount": 60,
+      "permalink": "https://www.mercadolivre.com.br/bicicleta-eletrica-dobravel-eb1s-500w-ate-50km-com-bateria-36v-12ah-suspensao-traseira-display-lcd-farol-led-e-usb/p/MLB75251097?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Esportes",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_819479-MLA114306217579_072026-AB.webp",
       "emoji": "⚽",
       "destaque": false
     },
@@ -366,14 +399,36 @@
       "destaque": false
     },
     {
-      "title": "Tablet Hancdon Tab Android 15 Kit Completo com Caneta e Teclado 11.6\" HD, 16GB RAM e 512GB",
-      "price": 979.0,
-      "original_price": 2369.0,
+      "title": "Piscina Inflável Grande Família 2500l Pvc Espessa Resistente Azul Turquesa E Laranja Quente",
+      "price": 663.0,
+      "original_price": 1671.0,
+      "discount": 60,
+      "permalink": "https://www.mercadolivre.com.br/piscina-inflavel-grande-familia-2500l-pvc-espessa-resistente/up/MLBU4619518222?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Brinquedos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_600534-MLB115708055377_082026-O--piscina-inflavel-grande-familia-2500l-pvc-espessa-resistente.webp",
+      "emoji": "🧸",
+      "destaque": false
+    },
+    {
+      "title": "Mangueira de Jardim 30mts Duraflex Reforçada Ultra Resistente Laranja Siliconada AntiDobra",
+      "price": 72.0,
+      "original_price": 177.0,
       "discount": 59,
-      "permalink": "https://www.mercadolivre.com.br/tablet-hancdon-tab-android-15-kit-completo-com-caneta-e-teclado-116-hd-16gb-ram-e-512gb/p/MLB62832659?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Informática",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_703704-MLA114783054034_082026-AB.webp",
-      "emoji": "💻",
+      "permalink": "https://www.mercadolivre.com.br/mangueira-de-jardim-30mts-duraflex-reforcada-ultra-resistente-laranja-siliconada-antidobra/p/MLB24739370?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Eletrodomésticos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_644466-MLA108028482180_032026-AB.webp",
+      "emoji": "🏠",
+      "destaque": false
+    },
+    {
+      "title": "Moto Elétrica Infantil 12v Criança Música Rodas Auxiliares Vermelho 127/220v",
+      "price": 766.0,
+      "original_price": 1873.0,
+      "discount": 59,
+      "permalink": "https://www.mercadolivre.com.br/moto-eletrica-infantil-12v-crianca-musica-rodas-auxiliares/up/MLBU3479517073?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Brinquedos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_808999-MLB111071577090_052026-O--moto-eletrica-infantil-12v-crianca-musica-rodas-auxiliares.webp",
+      "emoji": "🧸",
       "destaque": false
     },
     {
@@ -399,14 +454,36 @@
       "destaque": false
     },
     {
-      "title": "Kit 4 Livros De Colorir Comfy Cozy Capa Dura 192 Páginas , Livro Para Pintar Fofo Viral Tiktok Bobbie Goods A5 Desenhos Fofos Presente Criat",
-      "price": 29.0,
-      "original_price": 69.0,
+      "title": "Smart TV Semp 50 Polegadas LED Full HD S42 Wi-Fi Bluetooth Google TV HDR10 Dolby Audio 50S42",
+      "price": 2099.0,
+      "original_price": 5000.0,
       "discount": 58,
-      "permalink": "https://www.mercadolivre.com.br/kit-4-livros-de-colorir-comfy-cozy-capa-dura-192-paginas-livro-para-pintar-fofo-viral-tiktok-bobbie-goods-a5-desenhos-fofos-presente-criativo-relaxante-popsy/p/MLB66706827?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Livros",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_958421-MLA109896748724_042026-AB.webp",
-      "emoji": "📚",
+      "permalink": "https://www.mercadolivre.com.br/smart-tv-semp-50-polegadas-led-full-hd-s42-wi-fi-bluetooth-google-tv-hdr10-dolby-audio-50s42/p/MLB70042157?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "TV e Vídeo",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_993664-MLA111945341083_052026-AB.webp",
+      "emoji": "📺",
+      "destaque": false
+    },
+    {
+      "title": "Esteira Elétrica Ergométrica Dobrável 12km C/tela Led Bivolt Preto 127/220v",
+      "price": 1247.0,
+      "original_price": 2999.0,
+      "discount": 58,
+      "permalink": "https://www.mercadolivre.com.br/esteira-eletrica-ergometrica-dobravel-12km-ctela-led-bivolt/up/MLBU3640141455?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Esportes",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_983712-MLB116668525765_082026-O--esteira-eletrica-ergometrica-dobravel-12km-ctela-led-bivolt.webp",
+      "emoji": "⚽",
+      "destaque": false
+    },
+    {
+      "title": "Piscina Inflável Familiar Pvc Reforçada Grande Área Externa Piscina De 3 M E 4 Camadas",
+      "price": 569.0,
+      "original_price": 1359.0,
+      "discount": 58,
+      "permalink": "https://www.mercadolivre.com.br/piscina-inflavel-familiar-pvc-reforcada-grande-area-externa/up/MLBU4349330288?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Brinquedos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_785667-MLB114685051553_072026-O--piscina-inflavel-familiar-pvc-reforcada-grande-area-externa.webp",
+      "emoji": "🧸",
       "destaque": false
     },
     {
@@ -432,14 +509,36 @@
       "destaque": false
     },
     {
-      "title": "Monitor Gamer TCL 25 Polegadas QLED Mini LED Full HD G64 300Hz 1ms (GtG) Freesync HDR 600 nits 25G64",
-      "price": 1299.0,
-      "original_price": 2949.0,
-      "discount": 56,
-      "permalink": "https://www.mercadolivre.com.br/monitor-gamer-tcl-25-polegadas-qled-mini-led-full-hd-g64-300hz-1ms-gtg-freesync-hdr-600-nits-25g64/p/MLB52170796?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Ofertas do Dia",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_789392-MLA116823388817_082026-AB.webp",
-      "emoji": "🔥",
+      "title": "Bloco Magnético Infantil Kit 96 Cubo Construção Brinquedo Educativo Gio Giu",
+      "price": 41.0,
+      "original_price": 95.0,
+      "discount": 57,
+      "permalink": "https://www.mercadolivre.com.br/bloco-magnetico-infantil-kit-96-cubo-construcao-brinquedo-educativo-gio-giu/p/MLB68019696?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Brinquedos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_941873-MLA110465893589_042026-AB.webp",
+      "emoji": "🧸",
+      "destaque": false
+    },
+    {
+      "title": "Lictin Brinquedos De Escavadeira De Controle Remoto Para Crianças Veículos De Construção Rc De 11 Canais Com Pá De Metal Luzes E Sons",
+      "price": 173.0,
+      "original_price": 399.0,
+      "discount": 57,
+      "permalink": "https://www.mercadolivre.com.br/lictin-brinquedos-de-escavadeira-de-controle-remoto-para-criancas-veiculos-de-construcao-rc-de-11-canais-com-pa-de-metal-luzes-e-sons/p/MLB50190667?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Brinquedos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_799499-MLA114307112727_072026-AB.webp",
+      "emoji": "🧸",
+      "destaque": false
+    },
+    {
+      "title": "Livro De Colorir Hello Kitty No Estilo Comfy, Cute, Bobbie Goods, Kawaii, Fofo, Anti Estresse Capa Dura Holográfica Folhas Grossas 180g",
+      "price": 21.0,
+      "original_price": 49.0,
+      "discount": 57,
+      "permalink": "https://www.mercadolivre.com.br/livro-de-colorir-hello-kitty-no-estilo-comfy-cute-bobbie-goods-kawaii-fofo-anti-estresse-capa-dura-holografica-folhas-grossas-180g/up/MLBU3051232510?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Livros",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_741005-MLB82845122585_032025-O--livro-de-colorir-hello-kitty-no-estilo-comfy-cute-bobbie-goods-kawaii-fofo-anti-estresse-capa-dura-holografica-folhas-grossas-180g.webp",
+      "emoji": "📚",
       "destaque": false
     },
     {
@@ -454,14 +553,25 @@
       "destaque": false
     },
     {
+      "title": "Monitor Gamer TCL 25 Polegadas QLED Mini LED Full HD G64 300Hz 1ms (GtG) Freesync HDR 600 nits 25G64",
+      "price": 1299.0,
+      "original_price": 2949.0,
+      "discount": 56,
+      "permalink": "https://www.mercadolivre.com.br/monitor-gamer-tcl-25-polegadas-qled-mini-led-full-hd-g64-300hz-1ms-gtg-freesync-hdr-600-nits-25g64/p/MLB52170796?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Ofertas do Dia",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_789392-MLA116823388817_082026-AB.webp",
+      "emoji": "🔥",
+      "destaque": false
+    },
+    {
       "title": "Escova Modeladora Ar Quente Com Íons Negativos Gokoco Gd037 Branco 127/220v",
       "price": 175.0,
       "original_price": 399.0,
       "discount": 56,
       "permalink": "https://www.mercadolivre.com.br/escova-modeladora-ar-quente-com-ions-negativos-gokoco-gd037/up/MLBU4749109339?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Beleza",
+      "categoria": "Ofertas do Dia",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_747252-MLB114916596062_082026-O--escova-modeladora-ar-quente-com-ions-negativos-gokoco-gd037.webp",
-      "emoji": "💄",
+      "emoji": "🔥",
       "destaque": false
     },
     {
@@ -476,47 +586,14 @@
       "destaque": false
     },
     {
-      "title": "Espada De Espuma 2 Em 1 E Picareta De Diamante Para Juquete",
-      "price": 95.0,
-      "original_price": 214.0,
-      "discount": 56,
-      "permalink": "https://www.mercadolivre.com.br/espada-de-espuma-2-em-1-e-picareta-de-diamante-para-juquete/p/MLB65478976?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Brinquedos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_848643-MLA107008317277_022026-AB.webp",
-      "emoji": "🧸",
-      "destaque": false
-    },
-    {
-      "title": "Smartwatch Samsung Galaxy Watch 8 40mm BT GPS, Branco com Pulseira Milanês Cinza-escuro",
-      "price": 1349.0,
-      "original_price": 2999.0,
-      "discount": 55,
-      "permalink": "https://www.mercadolivre.com.br/smartwatch-samsung-galaxy-watch-8-40mm-bt-gps-branco-com-pulseira-milanes-cinza-escuro/p/MLB52053098?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Celulares",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_783024-MLA110125232386_042026-AB.webp",
-      "emoji": "📱",
-      "destaque": false
-    },
-    {
       "title": "Fone Ouvido Bluetooth Compatível Com Iphone X Xr 11 12 13 14 15 16 17 Xs Pro Max Plus Samsung S20 S23 S24 Xiaomi Motorola Android Ios Sem Fi",
       "price": 35.0,
       "original_price": 78.0,
       "discount": 55,
       "permalink": "https://www.mercadolivre.com.br/fone-ouvido-bluetooth-compativel-com-iphone-x-xr-11-12-13-14-15-16-17-xs-pro-max-plus-samsung-s20-s23-s24-xiaomi-motorola-android-ios-sem-fio-prova-dagua-wireless-tipo-light-cancelamento-ruido-celular/p/MLB67291937?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Celulares",
+      "categoria": "Ofertas do Dia",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_793840-MLA109795835063_032026-AB.webp",
-      "emoji": "📱",
-      "destaque": false
-    },
-    {
-      "title": "Kit 15 Pares Meias Sport Algodão Cano Médio Sandrini Confort Sortidos 39-43",
-      "price": 49.0,
-      "original_price": 109.0,
-      "discount": 55,
-      "permalink": "https://www.mercadolivre.com.br/kit-15-pares-meias-sport-algodao-cano-medio-sandrini-confort/up/MLBU1142202325?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Moda",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_910476-MLB113033587620_072026-O--kit-15-pares-meias-sport-algodao-cano-medio-sandrini-confort.webp",
-      "emoji": "👗",
+      "emoji": "🔥",
       "destaque": false
     },
     {
@@ -531,13 +608,24 @@
       "destaque": false
     },
     {
-      "title": "Patinete Infantil 3 Rodas Para Menino Dobrável Ajustável Rodinhas de Gel com Led Atacarejo Kids",
-      "price": 67.0,
-      "original_price": 149.0,
+      "title": "Piscina Inflável Pvc Espessa Resistente Família Grande Piscina De 2.6 M E 3 Camadas",
+      "price": 429.0,
+      "original_price": 946.0,
       "discount": 55,
-      "permalink": "https://www.mercadolivre.com.br/patinete-infantil-3-rodas-para-menino-dobravel-ajustavel-rodinhas-de-gel-com-led-atacarejo-kids/p/MLB61991380?matt_word=birutaofertas&matt_tool=48037708",
+      "permalink": "https://www.mercadolivre.com.br/piscina-inflavel-pvc-espessa-resistente-familia-grande/up/MLBU4332185732?matt_word=birutaofertas&matt_tool=48037708",
       "categoria": "Brinquedos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_651245-MLA111415092515_052026-AB.webp",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_688133-MLB114586788725_072026-O--piscina-inflavel-pvc-espessa-resistente-familia-grande.webp",
+      "emoji": "🧸",
+      "destaque": false
+    },
+    {
+      "title": "Tapete Atividades Ginásio Musical Bebê Com Mobile E Teclado Atacarejo Kids",
+      "price": 49.0,
+      "original_price": 109.0,
+      "discount": 55,
+      "permalink": "https://www.mercadolivre.com.br/tapete-atividades-ginasio-musical-bebe-com-mobile-e-teclado-atacarejo-kids/p/MLB54287132?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Brinquedos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_813280-MLA113149382058_072026-AB.webp",
       "emoji": "🧸",
       "destaque": false
     },
@@ -547,9 +635,20 @@
       "original_price": 99.0,
       "discount": 54,
       "permalink": "https://www.mercadolivre.com.br/carregador-30w-turbo-para-iphone-8-x-xr-11-12-13-14-pro-max-fonte-usb-c-cor-branca-dtimp/p/MLB47814270?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Ofertas do Dia",
+      "categoria": "Celulares",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_989431-MLA113963894617_062026-AB.webp",
-      "emoji": "🔥",
+      "emoji": "📱",
+      "destaque": false
+    },
+    {
+      "title": "Fonte Msi Mag 650w 80 Plus Bronze Pfc Ativo A650bnl Preto",
+      "price": 278.0,
+      "original_price": 599.0,
+      "discount": 54,
+      "permalink": "https://www.mercadolivre.com.br/fonte-msi-mag-650w-80-plus-bronze-pfc-ativo-a650bnl-preto/p/MLB62535762?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Informática",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_620355-MLA99033065284_112025-AB.webp",
+      "emoji": "💻",
       "destaque": false
     },
     {
@@ -558,31 +657,9 @@
       "original_price": 500.0,
       "discount": 54,
       "permalink": "https://www.mercadolivre.com.br/kit-2-cameras-de-seguranca-woosh-a28b-full-hd-dupla-lente-wi-fi-com-visao-noturna-colorida/p/MLB60082375?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Ofertas do Dia",
+      "categoria": "Eletrodomésticos",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_684399-MLA113374355923_062026-AB.webp",
-      "emoji": "🔥",
-      "destaque": false
-    },
-    {
-      "title": "Bicicleta Ergométrica Spinning Profissional Fitness Academia Sport 120 Kgs Preto Premium Bike academia para Cardio e Musculação com base + b",
-      "price": 517.0,
-      "original_price": 1123.0,
-      "discount": 54,
-      "permalink": "https://www.mercadolivre.com.br/bicicleta-ergometrica-spinning-profissional-fitness-academia-sport-120-kgs-preto-premium-bike-academia-para-cardio-e-musculacao-com-base-brinde-squeezebar/p/MLB53486618?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Esportes",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_692054-MLA99720253775_112025-AB.webp",
-      "emoji": "⚽",
-      "destaque": false
-    },
-    {
-      "title": "OIMOTOO ES8085 Patinete Elétrico Premium 500w Pneu Aderente 10 polegadas Velocidade Máxima 40km/h Motorizado Até 30km De Autonomia",
-      "price": 1195.0,
-      "original_price": 2598.0,
-      "discount": 54,
-      "permalink": "https://www.mercadolivre.com.br/oimotoo-es8085-patinete-eletrico-premium-500w-pneu-aderente-10-polegadas-velocidade-maxima-40kmh-motorizado-ate-30km-de-autonomia/p/MLB68375820?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Brinquedos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_839590-MLA113611443392_072026-AB.webp",
-      "emoji": "🧸",
+      "emoji": "🏠",
       "destaque": false
     },
     {
@@ -593,17 +670,6 @@
       "permalink": "https://www.mercadolivre.com.br/blocos-montar-carro-corrida-ferrari-f1-1361pcs-colecionador/up/MLBU3789874453?matt_word=birutaofertas&matt_tool=48037708",
       "categoria": "Brinquedos",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_693598-MLB107023347896_022026-O--blocos-montar-carro-corrida-ferrari-f1-1361pcs-colecionador.webp",
-      "emoji": "🧸",
-      "destaque": false
-    },
-    {
-      "title": "Tapete Interativo Térmico Tatame Infantil Educativo Bebê Verde",
-      "price": 36.0,
-      "original_price": 78.0,
-      "discount": 54,
-      "permalink": "https://www.mercadolivre.com.br/tapete-interativo-termico-tatame-infantil-educativo-bebe/up/MLBU3116271301?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Brinquedos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_708292-MLB87706313632_072025-O--tapete-interativo-termico-tatame-infantil-educativo-bebe.webp",
       "emoji": "🧸",
       "destaque": false
     },
@@ -627,17 +693,6 @@
       "categoria": "Eletrodomésticos",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_605578-MLA113633610823_062026-AB.webp",
       "emoji": "🏠",
-      "destaque": false
-    },
-    {
-      "title": "Creatina Suplemento Monohidratada em pó 100% Pura - Soldiers Nutrition x2",
-      "price": 123.0,
-      "original_price": 259.0,
-      "discount": 53,
-      "permalink": "https://www.mercadolivre.com.br/creatina-suplemento-monohidratada-em-po-100-pura-soldiers-nutrition-x2/p/MLB69309435?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Esportes",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_863793-MLA111344425065_052026-AB.webp",
-      "emoji": "⚽",
       "destaque": false
     },
     {
@@ -674,17 +729,6 @@
       "destaque": false
     },
     {
-      "title": "Colchão Casal Molas Ensacadas Zidi Alabama 138x188x24cm Cinza",
-      "price": 571.0,
-      "original_price": 1201.0,
-      "discount": 52,
-      "permalink": "https://www.mercadolivre.com.br/colchao-casal-molas-ensacadas-zidi-alabama-138x188x24cm-cinza/p/MLB61854089?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Ofertas do Dia",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_801579-MLA111873837275_052026-AB.webp",
-      "emoji": "🔥",
-      "destaque": false
-    },
-    {
       "title": "Caixa De Som Acústica Philco Pcx7100 Flash Lights Bass 750w Cor Preto",
       "price": 571.0,
       "original_price": 1200.0,
@@ -693,6 +737,17 @@
       "categoria": "Eletrônicos",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_953037-MLA91989864565_092025-AB.webp",
       "emoji": "🔌",
+      "destaque": false
+    },
+    {
+      "title": "Colchão Casal Molas Ensacadas Zidi Alabama 138x188x24cm Cinza",
+      "price": 571.0,
+      "original_price": 1201.0,
+      "discount": 52,
+      "permalink": "https://www.mercadolivre.com.br/colchao-casal-molas-ensacadas-zidi-alabama-138x188x24cm-cinza/p/MLB61854089?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Eletrodomésticos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_801579-MLA111873837275_052026-AB.webp",
+      "emoji": "🏠",
       "destaque": false
     },
     {
@@ -729,24 +784,13 @@
       "destaque": false
     },
     {
-      "title": "O Príncipe 2026 Livro Nicolau Maquiavel Estratégias E Poder",
-      "price": 13.0,
-      "original_price": 27.0,
+      "title": "Inabalável - Manzotti, Padre Reginaldo - Petra - NF - Capa Mole",
+      "price": 21.0,
+      "original_price": 44.0,
       "discount": 52,
-      "permalink": "https://www.mercadolivre.com.br/o-principe-2026-livro-nicolau-maquiavel-estrategias-e-poder/up/MLBU4148050363?matt_word=birutaofertas&matt_tool=48037708",
+      "permalink": "https://www.mercadolivre.com.br/inabalavel-manzotti-padre-reginaldo-petra-nf-capa-mole/p/MLB64922001?matt_word=birutaofertas&matt_tool=48037708",
       "categoria": "Livros",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_867627-MLB113763007317_062026-O--o-principe-2026-livro-nicolau-maquiavel-estrategias-e-poder.webp",
-      "emoji": "📚",
-      "destaque": false
-    },
-    {
-      "title": "A Arte Da Guerra 2026 | Sun Tzu | Livro Com Resumo, Análise E Infográfico | Letra Viva",
-      "price": 13.0,
-      "original_price": 27.0,
-      "discount": 52,
-      "permalink": "https://www.mercadolivre.com.br/a-arte-da-guerra-2026--sun-tzu--livro-com-resumo-analise-e-infografico--letra-viva/up/MLBU4222385688?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Livros",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_609369-MLB112909082050_072026-O--a-arte-da-guerra-2026--sun-tzu--livro-com-resumo-analise-e-infografico--letra-viva.webp",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_619793-MLA105166054550_012026-AB.webp",
       "emoji": "📚",
       "destaque": false
     },
@@ -762,17 +806,6 @@
       "destaque": false
     },
     {
-      "title": "Creatina Monohidratada Pura 500g Dark Lab Unidade",
-      "price": 49.0,
-      "original_price": 99.0,
-      "discount": 51,
-      "permalink": "https://www.mercadolivre.com.br/creatina-monohidratada-pura-500g-dark-lab-unidade/p/MLB26796581?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Ofertas do Dia",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_734286-MLA115263082370_082026-AB.webp",
-      "emoji": "🔥",
-      "destaque": false
-    },
-    {
       "title": "Creatina Monohidratada Pura 1kg Dark Lab Unidade Sem sabor",
       "price": 78.0,
       "original_price": 159.0,
@@ -780,17 +813,6 @@
       "permalink": "https://www.mercadolivre.com.br/creatina-monohidratada-pura-1kg-dark-lab-unidade-sem-sabor/p/MLB25929487?matt_word=birutaofertas&matt_tool=48037708",
       "categoria": "Ofertas do Dia",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_603981-MLA115262802698_082026-AB.webp",
-      "emoji": "🔥",
-      "destaque": false
-    },
-    {
-      "title": "Bicicleta Ergométrica Bike Spinning 6kg Sensação inércia Fitness Preto e Vermelho Sevenfit Para Cardio E Musculação",
-      "price": 539.0,
-      "original_price": 1094.0,
-      "discount": 51,
-      "permalink": "https://www.mercadolivre.com.br/bicicleta-ergometrica-bike-spinning-6kg-sensacao-inercia-fitness-preto-e-vermelho-sevenfit-para-cardio-e-musculacao/p/MLB42978348?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Ofertas do Dia",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_745785-MLA114987927277_072026-AB.webp",
       "emoji": "🔥",
       "destaque": false
     },
@@ -806,6 +828,39 @@
       "destaque": false
     },
     {
+      "title": "Creatina Monohidratada Pura 500g Dark Lab Unidade",
+      "price": 49.0,
+      "original_price": 99.0,
+      "discount": 51,
+      "permalink": "https://www.mercadolivre.com.br/creatina-monohidratada-pura-500g-dark-lab-unidade/p/MLB26796581?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Esportes",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_734286-MLA115263082370_082026-AB.webp",
+      "emoji": "⚽",
+      "destaque": false
+    },
+    {
+      "title": "Bicicleta Ergométrica Bike Spinning 6kg Sensação inércia Fitness Preto e Vermelho Sevenfit Para Cardio E Musculação",
+      "price": 539.0,
+      "original_price": 1094.0,
+      "discount": 51,
+      "permalink": "https://www.mercadolivre.com.br/bicicleta-ergometrica-bike-spinning-6kg-sensacao-inercia-fitness-preto-e-vermelho-sevenfit-para-cardio-e-musculacao/p/MLB42978348?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Esportes",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_745785-MLA114987927277_072026-AB.webp",
+      "emoji": "⚽",
+      "destaque": false
+    },
+    {
+      "title": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "price": 170.0,
+      "original_price": 349.0,
+      "discount": 51,
+      "permalink": "https://www.mercadolivre.com.br/whey-protein-concentrado-1kg-chocolate-dark-lab/p/MLB40182826?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Esportes",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_827032-MLA100010410071_122025-AB.webp",
+      "emoji": "⚽",
+      "destaque": false
+    },
+    {
       "title": "Secador De Cabelos Philco psc3500 4 Em 1 dobrável motor bldc Prateado",
       "price": 394.0,
       "original_price": 799.0,
@@ -814,6 +869,28 @@
       "categoria": "Beleza",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_871708-MLA100016593317_122025-AB.webp",
       "emoji": "💄",
+      "destaque": false
+    },
+    {
+      "title": "Manual de Procedimentos Estágio Enfermagem 2025 – Guia Prático de Bolso - Editora Martinari",
+      "price": 29.0,
+      "original_price": 59.0,
+      "discount": 51,
+      "permalink": "https://www.mercadolivre.com.br/manual-de-procedimentos-estagio-enfermagem-2025-guia-pratico-de-bolso-editora-martinari/p/MLB71782055?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Livros",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_777583-MLA111600911772_062026-AB.webp",
+      "emoji": "📚",
+      "destaque": false
+    },
+    {
+      "title": "Smartphone Samsung Galaxy A17 5G 128GB 4GB Super Amoled 6.7'' Câmera 50MP Selfie 13 MP 5000 mAh NFC Dual Sim Recursos IA - Preto",
+      "price": 921.0,
+      "original_price": 1855.0,
+      "discount": 50,
+      "permalink": "https://www.mercadolivre.com.br/smartphone-samsung-galaxy-a17-5g-128gb-4gb-super-amoled-67-camera-50mp-selfie-13-mp-5000-mah-nfc-dual-sim-recursos-ia-preto/p/MLB55027309?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Ofertas do Dia",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_755351-MLA99597188918_122025-AB.webp",
+      "emoji": "🔥",
       "destaque": false
     },
     {
@@ -839,13 +916,35 @@
       "destaque": false
     },
     {
-      "title": "Smartphone Samsung Galaxy A17 5G 128GB 4GB Super Amoled 6.7'' Câmera 50MP Selfie 13 MP 5000 mAh NFC Dual Sim Recursos IA - Preto",
-      "price": 921.0,
-      "original_price": 1855.0,
+      "title": "Relógio Inteligente Gps Smartwatch Amoled 3atm Sport Gps Caixa Preto",
+      "price": 299.0,
+      "original_price": 599.0,
       "discount": 50,
-      "permalink": "https://www.mercadolivre.com.br/smartphone-samsung-galaxy-a17-5g-128gb-4gb-super-amoled-67-camera-50mp-selfie-13-mp-5000-mah-nfc-dual-sim-recursos-ia-preto/p/MLB55027309?matt_word=birutaofertas&matt_tool=48037708",
+      "permalink": "https://www.mercadolivre.com.br/relogio-inteligente-gps-smartwatch-amoled-3atm-sport-gps-caixa-preto/p/MLB62756066?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Ofertas do Dia",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_984233-MLA105531058053_012026-AB.webp",
+      "emoji": "🔥",
+      "destaque": false
+    },
+    {
+      "title": "Smartphone Motorola Edge 70 5g - 512gb 24gb (12gb Ram+12gb Ram Boost), Ultrafino, 3 Cameras 50mp, Tela 1.5k Extreme Amoled 120hz - Gadget Gr",
+      "price": 2879.0,
+      "original_price": 5799.0,
+      "discount": 50,
+      "permalink": "https://www.mercadolivre.com.br/smartphone-motorola-edge-70-5g-512gb-24gb-12gb-ram12gb-ram-boost-ultrafino-3-cameras-50mp-tela-15k-extreme-amoled-120hz-gadget-gray/p/MLB65919767?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Ofertas do Dia",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_766589-MLA106846097722_022026-AB.webp",
+      "emoji": "🔥",
+      "destaque": false
+    },
+    {
+      "title": "Relógio Inteligente Gps Smartwatch Amoled 3atm Sport Gps Caixa Cinza",
+      "price": 299.0,
+      "original_price": 599.0,
+      "discount": 50,
+      "permalink": "https://www.mercadolivre.com.br/relogio-inteligente-gps-smartwatch-amoled-3atm-sport-gps-caixa-cinza/p/MLB62974231?matt_word=birutaofertas&matt_tool=48037708",
       "categoria": "Celulares",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_755351-MLA99597188918_122025-AB.webp",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_971061-MLA105116883587_012026-AB.webp",
       "emoji": "📱",
       "destaque": false
     },
@@ -861,35 +960,24 @@
       "destaque": false
     },
     {
-      "title": "Smartphone Motorola Edge 70 5g - 512gb 24gb (12gb Ram+12gb Ram Boost), Ultrafino, 3 Cameras 50mp, Tela 1.5k Extreme Amoled 120hz - Gadget Gr",
-      "price": 2879.0,
-      "original_price": 5799.0,
+      "title": "Fone de Ouvido Bluetooth 5.4 soundcore P30i da Anker, Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 c",
+      "price": 196.0,
+      "original_price": 389.0,
       "discount": 50,
-      "permalink": "https://www.mercadolivre.com.br/smartphone-motorola-edge-70-5g-512gb-24gb-12gb-ram12gb-ram-boost-ultrafino-3-cameras-50mp-tela-15k-extreme-amoled-120hz-gadget-gray/p/MLB65919767?matt_word=birutaofertas&matt_tool=48037708",
+      "permalink": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-54-soundcore-p30i-da-anker-cancelamento-de-ruido-adaptativo-graves-poderosos-45h-de-reproducao-estojo-2-em-1-com-suporte-para-celular-ip54-fone-sem-fio-tws-branco/p/MLB40556904?matt_word=birutaofertas&matt_tool=48037708",
       "categoria": "Celulares",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_766589-MLA106846097722_022026-AB.webp",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_944817-MLA99499902540_112025-AB.webp",
       "emoji": "📱",
       "destaque": false
     },
     {
-      "title": "Relógio Smartwatch Redmi Watch 5 Active Lite Xiaomi Branco Gold Prateado",
-      "price": 348.0,
-      "original_price": 699.0,
+      "title": "Placa-mãe Msi A520m-a Pro Am4 Matx Ddr4 Hdmi Dvi M.2",
+      "price": 375.0,
+      "original_price": 752.0,
       "discount": 50,
-      "permalink": "https://www.mercadolivre.com.br/relogio-smartwatch-redmi-watch-5-active-lite-xiaomi-branco-gold-prateado/p/MLB69428812?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Celulares",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_924047-MLA111498588009_052026-AB.webp",
-      "emoji": "📱",
-      "destaque": false
-    },
-    {
-      "title": "Monitor 20  Bluecase Office Led Hd+ 75hz 5ms Hdmi/vga  Preto Preto 127/220v",
-      "price": 226.0,
-      "original_price": 450.0,
-      "discount": 50,
-      "permalink": "https://www.mercadolivre.com.br/monitor-20--bluecase-office-led-hd-75hz-5ms-hdmivga--preto/up/MLBU3343218672?matt_word=birutaofertas&matt_tool=48037708",
+      "permalink": "https://www.mercadolivre.com.br/placa-mae-msi-a520m-a-pro-am4-matx-ddr4-hdmi-dvi-m2/p/MLB22649400?matt_word=birutaofertas&matt_tool=48037708",
       "categoria": "Informática",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_672112-MLB102775779187_122025-O--monitor-20--bluecase-office-led-hd-75hz-5ms-hdmivga--preto.webp",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_644232-MLA99455670876_112025-AB.webp",
       "emoji": "💻",
       "destaque": false
     },
@@ -905,17 +993,6 @@
       "destaque": false
     },
     {
-      "title": "Colônia Kaiak Feminino Vai Dar Onda 100 Ml",
-      "price": 94.0,
-      "original_price": 189.0,
-      "discount": 50,
-      "permalink": "https://www.mercadolivre.com.br/colonia-kaiak-feminino-vai-dar-onda-100-ml/p/MLB68487520?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Beleza",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_689118-MLA110801214811_042026-AB.webp",
-      "emoji": "💄",
-      "destaque": false
-    },
-    {
       "title": "Depilador Philips Satinelli Bre229/00 Bivolt - Rosa",
       "price": 170.0,
       "original_price": 343.0,
@@ -927,14 +1004,25 @@
       "destaque": false
     },
     {
-      "title": "Shampoo + Condicionador + Másc + Óleo Nutri Infusion - Truss",
-      "price": 328.0,
-      "original_price": 654.0,
-      "discount": 50,
-      "permalink": "https://www.mercadolivre.com.br/shampoo-condicionador-masc-oleo-nutri-infusion-truss/p/MLB50106514?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Beleza",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_677845-MLA99924858641_112025-AB.webp",
-      "emoji": "💄",
+      "title": "Perfume Árabe Wazeer Al Noble Masculino 100ML",
+      "price": 168.0,
+      "original_price": 329.0,
+      "discount": 49,
+      "permalink": "https://www.mercadolivre.com.br/perfume-arabe-wazeer-al-noble-masculino-100ml/p/MLB74597842?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Ofertas do Dia",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_913191-MLA113446607112_072026-AB.webp",
+      "emoji": "🔥",
+      "destaque": false
+    },
+    {
+      "title": "Samsung Galaxy Buds Core",
+      "price": 256.0,
+      "original_price": 499.0,
+      "discount": 49,
+      "permalink": "https://www.mercadolivre.com.br/samsung-galaxy-buds-core/p/MLB52056865?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Celulares",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_686489-MLA99974455583_112025-AB.webp",
+      "emoji": "📱",
       "destaque": false
     },
     {
@@ -949,25 +1037,14 @@
       "destaque": false
     },
     {
-      "title": "Kit 10 Pote De Vidro Marmita Hermético 640ml Freezer Fitness Vitrex",
-      "price": 95.0,
-      "original_price": 188.0,
+      "title": "NAC 600mg - Fórmula Exclusiva com Máxima Concentração e Pureza - N-Acetil L-Cisteína - 60 Cápsulas",
+      "price": 45.0,
+      "original_price": 89.0,
       "discount": 49,
-      "permalink": "https://www.mercadolivre.com.br/kit-10-pote-de-vidro-marmita-hermetico-640ml-freezer-fitness-vitrex/p/MLB65269789?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Eletrodomésticos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_932662-MLA114564682923_072026-AB.webp",
-      "emoji": "🏠",
-      "destaque": false
-    },
-    {
-      "title": "Perfume Árabe Wazeer Al Noble Masculino 100ML",
-      "price": 168.0,
-      "original_price": 329.0,
-      "discount": 49,
-      "permalink": "https://www.mercadolivre.com.br/perfume-arabe-wazeer-al-noble-masculino-100ml/p/MLB74597842?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Beleza",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_913191-MLA113446607112_072026-AB.webp",
-      "emoji": "💄",
+      "permalink": "https://www.mercadolivre.com.br/nac-600mg-formula-exclusiva-com-maxima-concentracao-e-pureza-n-acetil-l-cisteina-60-capsulas/p/MLB58579835?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Esportes",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_690214-MLA113495617962_072026-AB.webp",
+      "emoji": "⚽",
       "destaque": false
     },
     {
@@ -1026,28 +1103,6 @@
       "destaque": false
     },
     {
-      "title": "Fone de Ouvido Sem Fio HUAWEI FreeBuds Pro 5 Cancelamento de Ruído com IA de Motor Duplo Som Ultra Imersivo Chamadas Estáveis e Nítidas IP57",
-      "price": 877.0,
-      "original_price": 1699.0,
-      "discount": 48,
-      "permalink": "https://www.mercadolivre.com.br/fone-de-ouvido-sem-fio-huawei-freebuds-pro-5-cancelamento-de-ruido-com-ia-de-motor-duplo-som-ultra-imersivo-chamadas-estaveis-e-nitidas-ip57-ate-38-horas-autonomia-de-bateria-cinza/p/MLB64531693?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Celulares",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_990763-MLA108616683409_032026-AB.webp",
-      "emoji": "📱",
-      "destaque": false
-    },
-    {
-      "title": "Monitor LG FHD Home & Office 22”, 1ms (MBR), 120Hz (O/C), Modo leitura, Flicker Safe, HDMI, LG Switch, Black Stabilizer, Dynamic Action Sync",
-      "price": 389.0,
-      "original_price": 749.0,
-      "discount": 48,
-      "permalink": "https://www.mercadolivre.com.br/monitor-lg-fhd-home-office-22-1ms-mbr-120hz-oc-modo-leitura-flicker-safe-hdmi-lg-switch-black-stabilizer-dynamic-action-sync-preto-22u403a/p/MLB66124090?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Informática",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_740315-MLA111037770979_042026-AB.webp",
-      "emoji": "💻",
-      "destaque": false
-    },
-    {
       "title": "Tablet Positivo Vision Tab 11 Caneta E Capa 4g 11 128gb Preto",
       "price": 1299.0,
       "original_price": 2499.0,
@@ -1056,6 +1111,50 @@
       "categoria": "Informática",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_735931-MLA104126643604_012026-AB.webp",
       "emoji": "💻",
+      "destaque": false
+    },
+    {
+      "title": "Fone de Ouvido Sem Fio HUAWEI FreeBuds Pro 5 Cancelamento de Ruído com IA de Motor Duplo Som Ultra Imersivo Chamadas Estáveis e Nítidas IP57",
+      "price": 877.0,
+      "original_price": 1699.0,
+      "discount": 48,
+      "permalink": "https://www.mercadolivre.com.br/fone-de-ouvido-sem-fio-huawei-freebuds-pro-5-cancelamento-de-ruido-com-ia-de-motor-duplo-som-ultra-imersivo-chamadas-estaveis-e-nitidas-ip57-ate-38-horas-autonomia-de-bateria-cinza/p/MLB64531693?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Eletrônicos",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_990763-MLA108616683409_032026-AB.webp",
+      "emoji": "🔌",
+      "destaque": false
+    },
+    {
+      "title": "Mala de Bordo Rígida Sweet Studio em ABS com Rodas 360° para Viagem",
+      "price": 169.0,
+      "original_price": 322.0,
+      "discount": 48,
+      "permalink": "https://www.mercadolivre.com.br/mala-de-bordo-rigida-sweet-studio-em-abs-com-rodas-360-para-viagem/p/MLB61060284?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Moda",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_674217-MLA112637860882_062026-AB.webp",
+      "emoji": "👗",
+      "destaque": false
+    },
+    {
+      "title": "Memórias Póstumas De Brás Cubas 2026 | Machado De Assis | Livro Com Resumo, Questões E Infográfico | Letra Viva",
+      "price": 14.0,
+      "original_price": 27.0,
+      "discount": 48,
+      "permalink": "https://www.mercadolivre.com.br/memorias-postumas-de-bras-cubas-2026--machado-de-assis--livro-com-resumo-questoes-e-infografico--letra-viva/up/MLBU4226705211?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Livros",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_715031-MLB114213317423_072026-O--memorias-postumas-de-bras-cubas-2026--machado-de-assis--livro-com-resumo-questoes-e-infografico--letra-viva.webp",
+      "emoji": "📚",
+      "destaque": false
+    },
+    {
+      "title": "01 Livro Otica Controle Registro Receita Ótica 100 Folhas",
+      "price": 104.0,
+      "original_price": 199.0,
+      "discount": 48,
+      "permalink": "https://www.mercadolivre.com.br/01-livro-otica-controle-registro-receita-otica-100-folhas/up/MLBU1433058590?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Livros",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_650761-MLB44739036946_012021-O--01-livro-otica-controle-registro-receita-otica-100-folhas.webp",
+      "emoji": "📚",
       "destaque": false
     },
     {
@@ -1070,13 +1169,13 @@
       "destaque": false
     },
     {
-      "title": "Monitor LG LED 20\" HD+, 75Hz, 2ms, HDMI/VGA, Modo Leitura, Flicker Safe, Black Stabilizer, Dynamic Action Sync, Preto- 20U401A",
-      "price": 342.0,
-      "original_price": 649.0,
+      "title": "Placa Mãe Asus Prime A520m-r Am4 Ddr4 M.2 Chipset A520 Hdmi Preto",
+      "price": 381.0,
+      "original_price": 716.0,
       "discount": 47,
-      "permalink": "https://www.mercadolivre.com.br/monitor-lg-led-20-hd-75hz-2ms-hdmivga-modo-leitura-flicker-safe-black-stabilizer-dynamic-action-sync-preto-20u401a/p/MLB63708330?matt_word=birutaofertas&matt_tool=48037708",
+      "permalink": "https://www.mercadolivre.com.br/placa-mae-asus-prime-a520mr-am4-ddr4-m2-chipset-a520-hdmi/up/MLBU4162173968?matt_word=birutaofertas&matt_tool=48037708",
       "categoria": "Informática",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_699928-MLA105314087580_012026-AB.webp",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_667956-MLB113736281327_062026-O--placa-mae-asus-prime-a520mr-am4-ddr4-m2-chipset-a520-hdmi.webp",
       "emoji": "💻",
       "destaque": false
     },
@@ -1092,28 +1191,6 @@
       "destaque": false
     },
     {
-      "title": "COLÁGENO TIPO 2 com 45mg - Fórmula Exclusiva para a Articulação com Máxima Concentração e Biodisponibilidade - 60 Cápsulas",
-      "price": 41.0,
-      "original_price": 77.0,
-      "discount": 47,
-      "permalink": "https://www.mercadolivre.com.br/colageno-tipo-2-com-45mg-formula-exclusiva-para-a-articulacao-com-maxima-concentracao-e-biodisponibilidade-60-capsulas/p/MLB43057072?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Esportes",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_932274-MLA113497076692_072026-AB.webp",
-      "emoji": "⚽",
-      "destaque": false
-    },
-    {
-      "title": "Estação Musculação 45Kg Completa Academia Treino WCT Fitness",
-      "price": 1597.0,
-      "original_price": 3000.0,
-      "discount": 47,
-      "permalink": "https://www.mercadolivre.com.br/estacao-musculacao-45kg-completa-academia-treino-wct-fitness/p/MLB24423814?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Esportes",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_921183-MLA99990715977_112025-AB.webp",
-      "emoji": "⚽",
-      "destaque": false
-    },
-    {
       "title": "Projetor Portátil 4k Hd Android 11.0 Smart Wifi 5g Bluetooth Branco 127/220v",
       "price": 189.0,
       "original_price": 349.0,
@@ -1125,36 +1202,14 @@
       "destaque": false
     },
     {
-      "title": "Cadeira Gamer E Escritório Python Fly Com Led Rgb Ergonômica Cor Azul e Preto Material do estofamento Couro sintético",
-      "price": 615.0,
-      "original_price": 1141.0,
+      "title": "Ordinário Da Santa Missa Tradicional (colorido)",
+      "price": 21.0,
+      "original_price": 39.0,
       "discount": 46,
-      "permalink": "https://www.mercadolivre.com.br/cadeira-gamer-e-escritorio-python-fly-com-led-rgb-ergonomica-cor-azul-e-preto-material-do-estofamento-couro-sintetico/p/MLB66288416?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Informática",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_977889-MLA108262320527_032026-AB.webp",
-      "emoji": "💻",
-      "destaque": false
-    },
-    {
-      "title": "Caixa De Som Jbl Amplificada Partybox Stage 320 240w Preta Preto 127/220v",
-      "price": 2899.0,
-      "original_price": 5398.0,
-      "discount": 46,
-      "permalink": "https://www.mercadolivre.com.br/caixa-de-som-jbl-amplificada-partybox-stage-320-240w-preta/up/MLBU3396568360?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Eletrônicos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_646641-MLB98899842326_112025-O--caixa-de-som-jbl-amplificada-partybox-stage-320-240w-preta.webp",
-      "emoji": "🔌",
-      "destaque": false
-    },
-    {
-      "title": "VITAMINA D3 + K2 Menaquinona-7 - Fórmula com Máxima Concentração e Biodisponibilidade - 60 Cápsulas",
-      "price": 48.0,
-      "original_price": 89.0,
-      "discount": 46,
-      "permalink": "https://www.mercadolivre.com.br/vitamina-d3-k2-menaquinona-7-formula-com-maxima-concentracao-e-biodisponibilidade-60-capsulas/p/MLB62162205?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Esportes",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_892120-MLA113496522576_072026-AB.webp",
-      "emoji": "⚽",
+      "permalink": "https://www.mercadolivre.com.br/ordinario-da-santa-missa-tradicional-colorido/up/MLBU3008068416?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Livros",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_991886-MLB87129845632_072025-O--ordinario-da-santa-missa-tradicional-colorido.webp",
+      "emoji": "📚",
       "destaque": false
     },
     {
@@ -1169,14 +1224,25 @@
       "destaque": false
     },
     {
-      "title": "Mala de Bordo Rígida Sweet Studio em ABS com Rodas 360° para Viagem",
-      "price": 178.0,
-      "original_price": 322.0,
+      "title": "Chapinha Profissional MQ Pro 480 Turbo Cor Black E Detalhes Silver",
+      "price": 347.0,
+      "original_price": 631.0,
       "discount": 45,
-      "permalink": "https://www.mercadolivre.com.br/mala-de-bordo-rigida-sweet-studio-em-abs-com-rodas-360-para-viagem/p/MLB61060284?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Moda",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_674217-MLA112637860882_062026-AB.webp",
-      "emoji": "👗",
+      "permalink": "https://www.mercadolivre.com.br/chapinha-profissional-mq-pro-480-turbo-cor-black-e-detalhes-silver/p/MLB26703117?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Beleza",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_818498-MLA99527505846_122025-AB.webp",
+      "emoji": "💄",
+      "destaque": false
+    },
+    {
+      "title": "Shampoo Invigo Nutri Enrich Wella 1L",
+      "price": 137.0,
+      "original_price": 250.0,
+      "discount": 45,
+      "permalink": "https://www.mercadolivre.com.br/shampoo-invigo-nutri-enrich-wella-1l/p/MLB19374253?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Beleza",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_634604-MLA109555881262_042026-AB.webp",
+      "emoji": "💄",
       "destaque": false
     },
     {
@@ -1202,6 +1268,17 @@
       "destaque": false
     },
     {
+      "title": "Livro De Colorir Estilo Bobbie Goods Varios Modelos 50 Folhas 180g 100modelos Toy Story",
+      "price": 22.0,
+      "original_price": 39.0,
+      "discount": 44,
+      "permalink": "https://www.mercadolivre.com.br/livro-de-colorir-estilo-bobbie-goods-varios-modelos-50-folhas-180g-100modelos/up/MLBU3087123356?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Livros",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_858071-MLB83265718839_032025-O--livro-de-colorir-estilo-bobbie-goods-varios-modelos-50-folhas-180g-100modelos.webp",
+      "emoji": "📚",
+      "destaque": false
+    },
+    {
       "title": "Processador AMD Ryzen 7 5700G 100-100000263BOX de 8 núcleos e 4.6GHz de frequência com gráfica integrada",
       "price": 975.0,
       "original_price": 1699.0,
@@ -1213,25 +1290,14 @@
       "destaque": false
     },
     {
-      "title": "Livros Infantil Aprendendo A Ler Disney Pixar Kit Com Histórias Educativas Para Crianças Em Alfabetização Estímulo À Leitura Na Infância",
-      "price": 56.0,
-      "original_price": 99.0,
-      "discount": 43,
-      "permalink": "https://www.mercadolivre.com.br/livros-infantil-aprendendo-a-ler-disney-pixar-kit-com-historias-educativas-para-criancas-em-alfabetizacao-estimulo-a-leitura-na-infancia/up/MLBU3100034926?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Livros",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_635227-MLB112546812008_062026-O--livros-infantil-aprendendo-a-ler-disney-pixar-kit-com-historias-educativas-para-criancas-em-alfabetizacao-estimulo-a-leitura-na-infancia.webp",
-      "emoji": "📚",
-      "destaque": false
-    },
-    {
-      "title": "SUS: Sistema Único de Saúde – Antecedentes, Percurso, Perspectivas e Desafios | 2a Edição | Editora Martinari",
-      "price": 29.0,
-      "original_price": 50.0,
-      "discount": 42,
-      "permalink": "https://www.mercadolivre.com.br/sus-sistema-unico-de-saude-antecedentes-percurso-perspectivas-e-desafios-2a-edicao-editora-martinari/p/MLB20674463?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Livros",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_958469-MLA114984527136_082026-AB.webp",
-      "emoji": "📚",
+      "title": "Monitor Gamer LG UltraGear 24”IPS Full HD 180Hz 1ms (GtG) NVIDIA G-SYNC AMD FreeSync HDR10 sRGB 99% HDMI DisplayPort, Preto- 24GS60F",
+      "price": 726.0,
+      "original_price": 1232.0,
+      "discount": 41,
+      "permalink": "https://www.mercadolivre.com.br/monitor-gamer-lg-ultragear-24ips-full-hd-180hz-1ms-gtg-nvidia-g-sync-amd-freesync-hdr10-srgb-99-hdmi-displayport-preto-24gs60f/p/MLB38947984?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Informática",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_817281-MLA107167838581_022026-AB.webp",
+      "emoji": "💻",
       "destaque": false
     },
     {
@@ -1246,25 +1312,14 @@
       "destaque": false
     },
     {
-      "title": "Livro O Novelo De Emoções Para Os Pequeninos - Capa Dura - Elizabete Neves - Ciranda Cultural - História Infantil",
-      "price": 29.0,
-      "original_price": 49.0,
-      "discount": 41,
-      "permalink": "https://www.mercadolivre.com.br/livro-o-novelo-de-emocoes-para-os-pequeninos--capa-dura--elizabete-neves--ciranda-cultural--historia-infantil/up/MLBU3794468612?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Livros",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_783394-MLB106534131584_022026-O--livro-o-novelo-de-emocoes-para-os-pequeninos--capa-dura--elizabete-neves--ciranda-cultural--historia-infantil.webp",
-      "emoji": "📚",
-      "destaque": false
-    },
-    {
-      "title": "Smart Tv Philco 40'' Full Hd Roku Tv Hdr10 Dolby Áudio P40cra",
-      "price": 1250.0,
-      "original_price": 2099.0,
+      "title": "Impressora HP Smart Tank 210 com Tanque de Tinta Colorida - Com Wi-Fi - USB 2.0 de alta velocidade. Funções da impressora: Imprimir. Cor: ",
+      "price": 689.0,
+      "original_price": 1141.0,
       "discount": 40,
-      "permalink": "https://www.mercadolivre.com.br/smart-tv-philco-40-full-hd-roku-tv-hdr10-dolby-audio-p40cra/p/MLB66055369?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Eletrônicos",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_907784-MLA107805950479_022026-AB.webp",
-      "emoji": "🔌",
+      "permalink": "https://www.mercadolivre.com.br/impressora-hp-smart-tank-210-com-tanque-de-tinta-colorida-com-wi-fi-usb-20-de-alta-velocidade-funcoes-da-impressora-imprimir-cor-branco-3d4l5a/p/MLB42164745?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "Informática",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_935190-MLA115056875314_082026-AB.webp",
+      "emoji": "💻",
       "destaque": false
     },
     {
@@ -1273,42 +1328,20 @@
       "original_price": 2099.0,
       "discount": 40,
       "permalink": "https://www.mercadolivre.com.br/smart-tv-philco-40-p40vik-led-roku-dolby-audio-wi-fi-hdmi-hdr-full-hd-110220v/p/MLB67270079?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "TV e Vídeo",
+      "categoria": "Eletrônicos",
       "img": "https://http2.mlstatic.com/D_Q_NP_2X_797485-MLA109558284021_032026-AB.webp",
-      "emoji": "📺",
+      "emoji": "🔌",
       "destaque": false
     },
     {
-      "title": "Kit 2 Livros | Paz E Prosperidade - Te Encontrar + Finanças",
-      "price": 47.0,
-      "original_price": 78.0,
+      "title": "Smart TV AIWA 43” Android Full HD Borda Ultrafina HDR10 Dolby Áudio AWS-TV-43-BL-02-A",
+      "price": 1386.0,
+      "original_price": 2291.0,
       "discount": 40,
-      "permalink": "https://www.mercadolivre.com.br/kit-2-livros--paz-e-prosperidade--te-encontrar--financas/up/MLBU3968048040?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Livros",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_649530-MLB111601456497_052026-O--kit-2-livros--paz-e-prosperidade--te-encontrar--financas.webp",
-      "emoji": "📚",
-      "destaque": false
-    },
-    {
-      "title": "Kit 5 Livros - Ferido Pelo Processo Curado Pelo Propósito",
-      "price": 116.0,
-      "original_price": 189.0,
-      "discount": 39,
-      "permalink": "https://www.mercadolivre.com.br/kit-5-livros--ferido-pelo-processo-curado-pelo-proposito/up/MLBU3934599187?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Livros",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_975901-MLB110271096966_052026-O--kit-5-livros--ferido-pelo-processo-curado-pelo-proposito.webp",
-      "emoji": "📚",
-      "destaque": false
-    },
-    {
-      "title": "Ferido Pelo Processo Curado Pelo Propósito - Fernando Rios E Ruminingue Queiroz",
-      "price": 35.0,
-      "original_price": 57.0,
-      "discount": 39,
-      "permalink": "https://www.mercadolivre.com.br/ferido-pelo-processo-curado-pelo-proposito--fernando-rios-e-ruminingue-queiroz/up/MLBU3253794030?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Livros",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_626940-MLB106067831388_022026-O--ferido-pelo-processo-curado-pelo-proposito--fernando-rios-e-ruminingue-queiroz.webp",
-      "emoji": "📚",
+      "permalink": "https://www.mercadolivre.com.br/smart-tv-aiwa-43-android-full-hd-borda-ultrafina-hdr10-dolby-audio-aws-tv-43-bl-02-a/p/MLB20662382?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "TV e Vídeo",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_994322-MLA99533174096_122025-AB.webp",
+      "emoji": "📺",
       "destaque": false
     },
     {
@@ -1334,14 +1367,14 @@
       "destaque": false
     },
     {
-      "title": "Livro Cartilha De Alfabetização 3 Anos + : Meu Grande Livro Da Educação Infantil | Atividades Educativas | Formas, Cores E Números - Para Cr",
-      "price": 48.0,
-      "original_price": 78.0,
-      "discount": 38,
-      "permalink": "https://www.mercadolivre.com.br/livro-cartilha-de-alfabetizacao-3-anos---meu-grande-livro-da-educacao-infantil--atividades-educativas--formas-cores-e-numeros--para-criancas/up/MLBU3376791468?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Livros",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_891047-MLB90544630135_082025-O--livro-cartilha-de-alfabetizacao-3-anos---meu-grande-livro-da-educacao-infantil--atividades-educativas--formas-cores-e-numeros--para-criancas.webp",
-      "emoji": "📚",
+      "title": "Smart TV PRO LG 50'' 4K Ultra HD AI 50UN85C",
+      "price": 2189.0,
+      "original_price": 3455.0,
+      "discount": 37,
+      "permalink": "https://www.mercadolivre.com.br/smart-tv-pro-lg-50-4k-ultra-hd-ai-50un85c/p/MLB74962073?matt_word=birutaofertas&matt_tool=48037708",
+      "categoria": "TV e Vídeo",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_865306-MLA116872861305_082026-AB.webp",
+      "emoji": "📺",
       "destaque": false
     },
     {
@@ -1356,58 +1389,14 @@
       "destaque": false
     },
     {
-      "title": "Smart TV PRO LG 50'' 4K Ultra HD AI 50UN85C",
-      "price": 2189.0,
-      "original_price": 3455.0,
+      "title": "Samsung Smart Tv 43 Qled Full Hd Q5f 2025, Xbox Cloud Gaming, Canais Gratuitos, Hdr, Som Em Movimento Virtual",
+      "price": 1838.0,
+      "original_price": 2900.0,
       "discount": 37,
-      "permalink": "https://www.mercadolivre.com.br/smart-tv-pro-lg-50-4k-ultra-hd-ai-50un85c/p/MLB74962073?matt_word=birutaofertas&matt_tool=48037708",
+      "permalink": "https://www.mercadolivre.com.br/samsung-smart-tv-43-qled-full-hd-q5f-2025-xbox-cloud-gaming-canais-gratuitos-hdr-som-em-movimento-virtual/p/MLB63467528?matt_word=birutaofertas&matt_tool=48037708",
       "categoria": "TV e Vídeo",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_865306-MLA116872861305_082026-AB.webp",
+      "img": "https://http2.mlstatic.com/D_Q_NP_2X_612999-MLA102412809695_122025-AB.webp",
       "emoji": "📺",
-      "destaque": false
-    },
-    {
-      "title": "Smart TV Philco 50\" Polegadas 4K UHD Roku TV HDR10 Dolby Audio WiFi P50CRB",
-      "price": 1969.0,
-      "original_price": 3099.0,
-      "discount": 36,
-      "permalink": "https://www.mercadolivre.com.br/smart-tv-philco-50-polegadas-4k-uhd-roku-tv-hdr10-dolby-audio-wifi-p50crb/p/MLB67287657?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "TV e Vídeo",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_795386-MLA116665464645_082026-AB.webp",
-      "emoji": "📺",
-      "destaque": false
-    },
-    {
-      "title": "Smart Tv Samsung 43 Ls43f6000fgxzd Full Hd Led 110v/220v",
-      "price": 1601.0,
-      "original_price": 2499.0,
-      "discount": 36,
-      "permalink": "https://www.mercadolivre.com.br/smart-tv-samsung-43-ls43f6000fgxzd-full-hd-led-110v220v/p/MLB63777677?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "TV e Vídeo",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_850374-MLA103344560695_012026-AB.webp",
-      "emoji": "📺",
-      "destaque": false
-    },
-    {
-      "title": "Smart Tv 43 Aoc Led Roku Full Hd Wi-fi 60hz Hdmi Usb 43s5155/78g",
-      "price": 1253.0,
-      "original_price": 1950.0,
-      "discount": 36,
-      "permalink": "https://www.mercadolivre.com.br/smart-tv-43-aoc-led-roku-full-hd-wi-fi-60hz-hdmi-usb-43s515578g/p/MLB59090080?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "TV e Vídeo",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_600093-MLA115184611400_082026-AB.webp",
-      "emoji": "📺",
-      "destaque": false
-    },
-    {
-      "title": "60 Folhas Desenho Pra Colorir Pintar Homem Aranha",
-      "price": 28.0,
-      "original_price": 44.0,
-      "discount": 36,
-      "permalink": "https://www.mercadolivre.com.br/60-folhas-desenho-pra-colorir-pintar-homem-aranha/up/MLBU4563492688?matt_word=birutaofertas&matt_tool=48037708",
-      "categoria": "Livros",
-      "img": "https://http2.mlstatic.com/D_Q_NP_2X_678345-MLB115481665831_082026-O--60-folhas-desenho-pra-colorir-pintar-homem-aranha.webp",
-      "emoji": "📚",
       "destaque": false
     }
   ]
